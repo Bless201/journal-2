@@ -1,0 +1,78 @@
+@media (max-width: 600px) {
+  .table-container {
+    display: none !important;
+  }
+}
+.article-detail {
+  padding: 2rem 0;
+  width: 100%;
+}
+/* Ensure container inside article-detail takes full width */
+.article-detail .container {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0;
+}
+
+.article-detail .container {
+  width: 100%!important;
+}
+
+.article-detail h2 {
+  color: #1a3a5f;
+  margin-bottom: 0.5rem;
+}
+
+.affiliation {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.article-detail h3 {
+  color: #1a3a5f;
+  margin: 1.5rem 0 1rem 0;
+  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 0.5rem;
+}
+
+.abstract {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-left: 4px solid #1a3a5f;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+.references {
+  list-style-type: none;
+}
+
+.references li {
+  margin-bottom: 0.8rem;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e9ecef;
+}
+
+.navigation a {
+  color: #1a3a5f;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navigation a.disabled {
+  color: #6c757d;
+  pointer-events: none;
+}
+
+.navigation a:hover:not(.disabled) {
+  text-decoration: underline;
+}
