@@ -1,178 +1,177 @@
 const Article4 = () => (
-  <div className="container" style={{width: '100%'}}>
-    <h2>Nurturing Creativity Through an Imaginative Curriculum</h2>
-    <p className="authors">Norman Jackson</p>
-    <p className="affiliation">LTSN Generic Centre and University of Surrey</p>
+  <div className="container" style={{ width: "100%" }}>
+    <h2>L’AFRIQUE, LA LITTÉRATURE ET LA LITTÉRARITÉ : UNE ÉTUDE DE RÉORIENTATION À TRAVERS « LA TORTUE DE ELERIUS E. JOHN »</h2>
+    <p className="authors">
+      PETER NYAH & DOMINICA E. UKPONG
+    </p>
+    <p className="affiliation">
+      Department of Foreign Languages, University of Uyo, Akwa-Ibom State, Nigeria
+      <br />
+      Email: pediman120@gmail.com / Tel. (234)8033380132
+    </p>
+    <h3>Résumé</h3>
+    <p className="abstract">
+      Le domaine de la civilisation africaine éprouve aujourd’hui, une réduction assez progressive à l’égard de l’importance de sa littérature dite orale. Ce constat explique un développement en plein essor qui va précipiter une succession subtile voire, la disparition ou l’extinction totale des mœurs et des valeurs socioculturelles de l’Afrique traditionnelle occasionnée par la prolifération et/ou la domination des us culturels d’origine étrangère. Ce travail présente une étude d’impact sur les mœurs africaines pour une réorientation littéraire et socioculturelle nouvelle de l’Afrique pour but de redécouvrir et revaloriser les variétés et la richesse des mœurs africaines à travers des contes dans LA TORTUE de Elerius E. John.
+    </p>
+    <div className="keywords">
+      <strong>Mots clés :</strong> Afrique, littérature, littérarité, orientation
+    </div>
+    <h3>Abstract</h3>
+    <p className="abstract">
+      African civilization today, is facing a rather progressive drop in the importance of its so-called oral literature. This remark is as a result of a full-swing development that may precipitate a gradual or total disappearance or extinction of the sociocultural mores of traditional Africa by the proliferation and/or the domination of customs of foreign origin. This paper presents an impact study on African mores for a new literary and sociocultural reorientation of Africa for the purpose of rediscovering and revalorizing the variety and the richness of African mores from some chosen stories from Elerius E. John’s LA TORTUE.
+    </p>
+    <div className="keywords">
+      <strong>Key words:</strong> Africa, literature, literarity, orientation
+    </div>
 
     <h3>Introduction</h3>
-    <p>We may all be limited by our imaginations, but some people are able to think freshly about something and in doing so open up new possibilities for themselves and others. Imagination (to cause to come into existence) and creativity (the ability to create) are inextricably linked. Creativity involves first imagining and then working with the ideas to produce new things. It could be new knowledge, a new process, a product or a unique performance or any combination of these things. We can encourage our imaginations to think many ideas or develop the habits that limit us to working with a few ideas. The world gets ever more complex: in the words of Ron Barnett, 'higher education is faced with not just preparing students for a complex world; it is faced with preparing students for a super complex world' (Barnett, 2000). We need imagination and creativity to work with, adapt to and exploit such complexity.</p>
+    <p>
+      La littérature africaine procède certes, de multiples et florissantes manifestations culturelles de l’Afrique. Cette disposition des traditions constitue en principe, le fondement de la littérature traditionnelle voire littérature orale d’Afrique noire. La littérature traditionnelle qui, regroupe aussi des genres très vastes et diversifiés, tels que : devinettes, maximes, louanges, proverbes, fables, contes etc., utilisent plus souvent, les mêmes stocks thématiques pour remplir les mêmes fonctions socioculturelles. Cependant, la littérature africaine a dû subir une négligence de préjugée des influences externes à cause des progrès scientifiques rapides et l’évolution ou la révolution socioculturelle des pays africains. Mais certains écrivains noirs, inspirés par le désir de sauvegarder leurs cultures et traditions, ont pu, grâce à une prise de conscience innée, ressusciter ce riche héritage culturel de l’Afrique. Ceci a provoqué un grand intérêt dans l’oralité dont la littérature africaine est originaire. Aujourd’hui, la littérature africaine demeure un domaine conservateur de la civilisation africaine.
+    </p>
+    <br />
+    <p>
+      Néanmoins, l’oralité est un trait d’esprit assez remarquable mais non-négligeable dans la tradition africaine. Donc, la littérature orale est un art du langage qui a pour but, d’exprimer et/ou, de propager les représentations culturelles pures de l’Afrique. Autrement dit, la littérature orale conforte l’identité propre à une culture ou une communauté. Elle véhicule aussi, l’histoire, les croyances, les représentations symboliques, les modèles culturels et la vision du monde naturel de cette culture ou cette communauté. Elle sert souvent d’outil de base pour l’enseignement des mœurs ou des traditions d’un peuple, en l’occurrence, le peuple Ibibio, de l’actuel Etat d’Akwa Ibom du Nigéria.
+    </p>
+    <br />
+    <p>
+      Cependant, le conte est l’un des genres de l’art langagier à travers lequel la civilisation africaine est beaucoup célébrée. Le conte est en général, un récit imaginaire à plusieurs objectifs tels que : la plaisanterie, la sagesse, le fantasme et la didactique à travers lesquels un peuple peut transmettre et questionner ses normes et ses valeurs sociétales. Souvent, les contes sont développés thématiquement et de temps à autre, ils sont montés autour des personnages composants parfois ; des animaux, des êtres humains et des génies. Comme dans beaucoup de sociétés sans écriture, le conte était une espèce de littérature. En Afrique, il servait de moyen de transmission orale, des idées ou des connaissances civilisatrices à travers les siècles. C’est en effet, une véritable source ou un fondement culturel qui est aussi généralement accepté d’avoir une origine typiquement africaine, grâce à l’apparition de la négritude dont le développement de la littérature africaine.
+    </p>
     <br />
 
-    <p>Higher education is full of creative people (staff and educational developers being some of the most creative) and the professional act of teaching, with the significant autonomy attached to this role, provides fertile conditions for people to be creative in order to promote students' learning. But many of us do not take advantage of this opportunity. All too often we prefer to replicate well tried methods and designs rather than experiment with more imaginative but riskier and perhaps less comfortable ways of doing things. The constant pressure for greater efficiency in what we do combined with pressures for research output are two major inhibitors (or excuses) for the absence of experimental enterprise. Quality assurance and peer review systems that favour conservatism are others. Being professional about teaching requires us to question and challenge the methodologies we use to promote students' learning. Will traditional methods of teaching deliver the increased efficiency that is required with the increased range of abilities/aptitudes (beyond mere knowledge) now being expected? Do our methods develop the behaviours and attitudes that are necessary to survive and prosper in this world of continuous change and problem working? The world requires people to be creative in order to grow the knowledge that is necessary to sustain themselves and the social and economic enterprises they inhabit.</p>
+    <h3>Résumé de La Tortue</h3>
+    <p>
+      Cet ouvrage porte comme titre <strong><em>La Tortue</em></strong>, peut-être parce que la tortue est considérée comme un animal à plusieurs caractéristiques et, domine sans doute, la plupart des contes africains. La Tortue est un recueil de contes qui renseignent sur les mœurs du Sud-Sud mais plus particulièrement, le Sud-Est du Nigéria qui abrite les présents Etats d’Akwa Ibom, Cross River, Rivers et quelques Etats Ibophones. Évidemment, l’auteur expose dans son œuvre, des phénomènes socioculturels de sa tribu Ibibio. Ce recueil contient trente-cinq contes ibibio en français facile pour les étudiants du français aux collèges et à l’Université. Les contes présentent des personnages de formes et de qualités variées : tantôt des êtres super naturels, des objets animés et inanimés, et tantôt, des êtres humains et des animaux. L’auteur veut aussi affirmer, l’existence d’une littérarité africaine, contrairement à la fausse notion des historiens occidentaux que l’Afrique était sans littérature. La Tortue est un véritable recueil des réalités africaines sur le plan artificiel ainsi que sur le plan naturel et socioculturel.
+    </p>
+    <br />
+    <p>
+      On témoigne à travers ces contes, la disposition des africains quant à la gestion de leurs affaires et leur temps. Un fait caractéristique des groupes ethniques de l’Afrique noire, c’est qu’on ne dit pas de contes à la lumière du soleil. Les affaires sont consacrées à la journée et les divertissements sont pour la nuit, surtout quand celle-ci est lunaire.
+    </p>
+    <br />
+    <p>
+      Selon Cornevin (19…) « C’est le soir aux lueurs vacillantes du feu près duquel les noirs attendent les veillées, sinon dans le flou laiteux d’une nuit lunaire qu’on les entend narrer le plus volontiers. La pénombre ajoute son charme de mystère au merveilleux pittoresque des contes. Si l’impression devenait trop angoissante, un conte gaillard et une fable satirique dissipent la terreur qui commence à peser sur l’auditoire ».
+    </p>
     <br />
 
-    <p>The LTSN Generic Centre's Imaginative Curriculum project is trying to foster the conditions for teachers and those involved in supporting curriculum development to think freshly about the curriculum, to share their experiential knowledge and to stimulate the imaginations of other teachers. Participants in the Imaginative Curriculum network share the belief that enabling students to be creative is a worthwhile and desirable educational goal that will benefit students throughout their lives and any programme can be designed to make it more favourable to nurturing creativity.</p>
-    
-    <h3>Teacher Conceptions of their own Creativity</h3>
-    <p>Being creative is, for the most part, a subconscious act. HE teachers do not sit down to design a course and think I'm going to be creative now! But they do believe that teaching involves being creative (see the research studies of McGoldrick 2002; Tait 2002 and Oliver 2002).</p>
+    <h3>La Civilisation Négro-Africaine : Un Aperçu Socioculturel</h3>
+    <p>
+      L’ancienne civilisation négro-africaine a légué un héritage historique qui explique les valeurs socioculturelles auxquelles l’homme noir est aujourd’hui rattaché. Cet héritage de l’Afrique préhistorique, reconnait le sens de la fraternité chez l’homme noir et son union avec son environnement matériel et social. Cependant, le terme socioculturel, s’applique à la société et la culture. Ce qui implique tous les éléments culturels dans une société donnée. Sans doute, toute société évolue en secrétant des valeurs propres à sa culture qui lui servent comme moyen d’exprimer toutes ses mœurs. Ces valeurs culturelles inclurent : les connaissances scientifiques, philosophiques, littéraires, artistiques et culturelles. Ces dernières sont parfois difficiles à être présentées clairement sous forme orale, mais elles constituent des composants culturels de la race noire. Bien entendu, ces consciences culturelles forment les gens pour la vie quotidienne (sociale, politique, économique et religieuse). Dans la tradition orale, le conte est un moyen assez répandu pour la dissémination d’information. Pourtant, chaque société possède certains éléments socioculturels propres à elle. Bien que les récits dans La Tortue reflètent les mœurs du peuple Ibibio, la philosophie ou le contenu de ses contes évoque grosso modo, certaines couleurs socioculturelles du monde noir tels : la politique, l’invocation des dieux, la consultation d’oracle, l’offrande des prières, le contrat du mariage, l’organisation des fêtes, de la musique et en fait, la lutte contre les vices sociétaux. Certes, les contes dévoilent aussi les vicissitudes de la vie, car il existe toujours des questions de rivalités et de conflits habituels dans la société humaine. On remarque que le plus souvent, ces troubles sont nécessités par la jalousie ou le désir pour le goût du pouvoir. En plus dans certains contes, on transmet et on questionne les normes et les valeurs d’une communauté donnée par exemple, l’initiation des adolescents au monde des adultes. Toutes ces tendances heureuses ou malheureuses, figurent bien dans les contes suivants examinés dans cet article : <em>Le Roi des Grenouilles, La Tortue et L’Eléphant, Les Chauves-souris, Le Taureau et La Mouche, La Leçon du Roi, La Tortue et L’Escargot, La Carapace de La Tortue, Le Vol, La Sagesse des Vieux et La Prière du Roi.</em>
+    </p>
     <br />
 
-    <p>Some ways in which creativity is recognised by academics designing a curriculum (Oliver 2002, McGoldrick 2002) include:</p>
-    <ul style={{marginLeft: '20px', marginBottom: '20px'}}>
-      <li><em>creativity as personal innovation</em> — something that is new to individuals. This is often about the transfer and adaptation of ideas from one context to another;</li>
-      <li><em>creativity as working at and across the boundaries of acceptability in specific contexts:</em> it involves taking risks;</li>
-      <li><em>creativity as design that promotes the holistic idea of graduateness</em> —the capacity to connect and do things with what has been learnt and to utilise this knowledge to learn in other situations;</li>
-      <li><em>creativity as making sense out of complexity</em> i.e. working with multiple — often conflicting — factors, pressures, interests and constraints;</li>
-      <li><em>creativity as a process of narrative making</em> in order to present the 'real curriculum' in ways that conform to the regulatory expectations of how a curriculum should be framed.</li>
-    </ul>
-
-    <h3>Creativity in students' learning</h3>
-    <p>There are strong similarities between the perceptions of academics of their own creativity and what they perceive are the characteristics of creativity in students' learning. Creativity involves the extended abstract outcomes of learning (Biggs, 1999; 2002) like hypothesizing, synthesizing, reflecting, generating ideas, applying the known to 'far' domains, working with problems that do not have unique solutions. The capacity to connect ideas and create evaluative frameworks to judge the value of ideas and potential solutions are essential features of academic creativity. The Imaginative Curriculum project has the potential to make an important contribution to understanding the nature of creativity in students' learning in different learning contexts.</p>
+    <h4>Le Roi des Grenouilles</h4>
+    <p>
+      Ce conte narre les processus nécessitant à la sélection d’un successeur au trône royal à la mort du roi titulaire. Dans la plupart des communautés africaines, on y opère un système de gouvernement clanique. Un clan regroupe plusieurs villages gérés par des chefs. A priori, l’un des chefs peut être élu roi du clan. Alors le poste royal est toujours un grand concours entre les chefs des villages du clan. Donc pour éviter des conflits politiques, il est inévitable par tradition, de consulter un oracle pour le choix d’un roi. Ce faisant, une jeune grenouille est élue. Celui-ci devenant trop excité par le pouvoir qui lui a été confié par destin, organise une grande fête durant les six jours précédant son couronnement. Au sixième jour, le jeune roi élu ayant trop bu et devenu ivre, décide de danser plus que les danseurs professionnels. Par malheur, il rate ses pas de danse, tombe et casse une jambe. Or, la loi empêche la difformité physique au trône. Alors notre jeune roi se retrouve déconsidéré et un vieillard est élu et couronné à sa place. Ce qui éprouve en principe que le trône royal en Afrique n’est pas pour les jeunes immatures. Aussi, à propos de la royauté dans le contexte africain, les rois sont des représentants de Dieu sur terre et sur-ce, méritent de grand respect. Les chefs sont élus en fonction de leur âge et de la sagesse qu’ils possèdent et/ou exhibent. On tient compte aussi de leur intégrité morale et de leur expérience gestionnaire. Mais le plus important c’est la maturité d’âge ancrée sur le bon caractère et de la sagesse. C’est peut-être la raison pour laquelle le choix d’un vieillard est bien souhaité et indispensable dans le gouvernement d’un peuple au lieu qu’un jeune en défaut de maturité physique, psychique et/ou spirituelle. Le Roi Des Grenouilles est bien entendu, une représentation satirique des jeunes au pouvoir politique.
+    </p>
     <br />
 
-    <p>Creative performance also requires positive attitudes and high levels of motivation (passion) evidenced by persistence and willingness to work hard. Such attitudes derive from personal beliefs that obstacles can be overcome. So learning processes to foster creativity must develop self-confidence and self-esteem, encourage by not penalizing risk-taking in relatively safe environments and help students to be 'comfortable' in messy/complex and unpredictable situations where there are no right and wrong answers. Working with complexity in a self-sustained and determined way is a fact of life and helping students to learn in complex unpredictable situations must be a worthwhile and appropriate enterprise for higher education. Such beliefs connect us to the fundamental moral purpose of education — making a difference to students' lives.</p>
+    <h4>Manifestations Culturelles et Religieuses</h4>
+    <p>
+      Les manifestations culturelles emplissent la littérature orale africaine à travers les cérémonies religieuses. Cependant, la religion et la superstition sont des phénomènes socioculturels remarquables chez les Africains. L’homme noir est originellement connu comme un être foncièrement religieux. Pour l’Africain, la religion c’est l’essence de la vie. Car urbi et orbi, il voit, crée et adore des dieux. Tout l’art noir se baigne dans le sacré. C’est peut-être la raison pour laquelle la religion africaine est parfois qualifiée « d’animiste ». Et, cette image de vie religieuse est si prédominante dans les contes africains. On y constate régulièrement, le rôle des dieux, des oracles, des divinités et les actes de rites et de sacrifices etc.
+    </p>
+    <br />
+    <p>
+      Dans des cas spécifiques, quand il arrive un malheur tel que : un décès, une querelle ou bien quand quelqu’un se heurte le pied droit ou gauche, ou, quand on se mord les lèvres en mangeant parmi d’autres, on fait toujours allusion à une croyance superstitieuse.
+    </p>
+    <br />
+    <p>
+      Dans La Carapace de La Tortue, on témoigne une grande sècheresse, et le roi des animaux inquiet, va consulter l’oracle d’Ukana (arbre du haricot oléagineux africain) en quête de solutions aux problèmes socioculturels.
+    </p>
+    <br />
+    <p>
+      Aussi dans La Prière du Roi, on constate également que malgré la richesse et les nombreuses femmes du roi, il n’arrive pas à procréer. Ayant maintes fois consulté différents oracles sans succès, il décide de prier au Tout Puissant Dieu. Cette fois-ci, il réussit et cela est marqué par une grande fête dans le royaume. Ceci explique que les africains ont une croyance extraordinaire en la religion et que la naissance d’un bébé apporte toujours de la joie menant à des cérémonies.
+    </p>
+    <br />
+    <p>
+      Dans Le Vol, on constate néanmoins, l’inclinaison à la vie religieuse chez les africains. Ce conte parle de la vie d’un homme époux de sept femmes. Toutes les femmes, sauf une qui, par malheur était stérile, ne lui ont enfanté que des filles et non de fils. Il consulte un oracle et peu après, la femme dite stérile met au monde un fils. Cependant, ce garçon est volé par une coépouse qui est également et en même temps, nourricière d’un bébé fille, mais qui en a besoin elle aussi d’un fils. Elle l’a fait certainement par jalousie. Mais comme l’on doutait la vraie mère du dit garçon, l’oracle du village est encore consulté et la vérité retrouvée. Ceci affirme de plus que la religion occupe en majorité, la pensée de l’homme à la peau noire.
+    </p>
     <br />
 
-    <p>While different disciplines recognize and value different forms of creativity, research studies recognize a range of intellectual attributes, attitudes and behaviours associated with creativity. DeWulf and Baillie (1999 p14-15) identify three characteristics:</p>
-      
-    <ul style={{marginLeft: '20px', marginBottom: '20px'}}>
-      <li>ability<strong> to visualise ideas</strong> — holistically, spatially, metaphorically and to be able to transform ideas through imaginative manipulation (complimentary reasoning, McKim, 1980). Flexibility, fluency and adaptability are important to the transformation of ideas.</li>
-      <li><strong>effective use of memory</strong> — for previously learnt knowledge and the ability to make connections and associations with and through this knowledge.</li>
-      <li><strong>convergent and divergent thinking</strong> — academic ways of thinking tend to value convergent ways of thinking — logic, reasoning, analysis, objectivity, judgement (left brain thinking — McKim, 1980). Divergent thinking brings into play the right brain thinking which is associated with openness, subjectivity, feeling, intuition, emotion, sensory and imaginative processes (McKim, 1980). Convergent thinking focuses on one answer while divergent thinking produces alternative possibilities and solutions. Creativity involves both convergent thinking (focused, analytical, judgemental and detailed thinking) and divergent thinking (diffuse, free flowing, associated, perceptual and imaginative). Training in creative thinking techniques such as those described by DeWulf and Baillie (1999) can help foster the habit of thinking in both divergent and convergent modes.</li>
-    </ul>
-
-    <h3>Course designs as a means of sharing and stimulating imaginations</h3>
-    <p>DeWulf and Baillie (1999) offer a definition of creativity as 'shared imaginations.' Unpacking this further it involves firstly having your own imagination, then doing something useful with it (sharing it) and perhaps encouraging others to use their own imaginations (the process of sparking each other!). The idea of shared imaginations is an attractive conception for the curriculum context as teachers' course and module designs provide the vehicle for sharing the imaginations of the designer and provide prompts and stimuli for further creative action by the teachers who operationalise the designs. Indeed, the real act of creativity for most teachers is in making a rudimentary design come alive through the teaching process.</p>
-     <br />
-
-    <p>These abstract ideas are all well and good but what practical things can we do to nurture students' (and for that matter teachers') creativity? Any programme can be designed or redesigned to make it more favourable to nurturing creativity and developing the habits of thinking creatively (Knight 2002). The following points (adapted and developed from Knight 2002 and Jackson 2002b) provide some guiding principles for helping teachers to develop their capacity to help students learn more creatively and to designing a curriculum that nurtures creativity.</p>
+    <h4>Vie Collective et Coopération</h4>
+    <p>
+      Un autre aspect socioculturel commun chez les Ibibio, est bien remarquable dans leur manière de vie collective. Cette tendance s’explique bien dans leur façon de s’entre-aider lors des grands travaux agricoles ou de construction de maisons ou bien lors, d’un malheur à un membre de la communauté. Cette relation commune se manifeste très souvent au niveau des groupements sociaux, familiaux et religieux. Le Taureau et la Mouche éclaircit cette tendance de vie unificatrice et de coexistence mutuelle. Dans ce conte, tous les animaux se sont réunis lors d’une famine sévère pour travailler ensemble à fin d’éradiquer ce fléau qui les menace. Il est également illustré dans Les Chauves-souris où cette situation de coopération mutuelle se manifeste à la suite d’une guerre entre les êtres aériens et ceux de la terre.
+    </p>
     <br />
 
-    <h4>Teacher conceptions of teaching and learning:</h4>
-    <p>We are enabled or stopped from doing things by the conceptions and perceptions (imaginations!) we hold. Conceptions and perceptions that support creativity in students' learning view teaching as a learning process itself and the role of the teacher is to engage students actively in challenging learning processes and help them create their own processes and frameworks for working with 'problems.' Teaching strategies foster students' intrinsic motivations for learning that derive more from the pleasure of interesting challenges than from the threat of assessment. Teacher conceptions must also value the idea that we can learn through systematic reflection in order to optimise the potential for learning from any situation — even those that don't go the way they are expected.</p>
-      <br/>
-      
-      <div style={{display: 'flex', justifyContent: 'center'}}>
-        <img 
-          src="https://res.cloudinary.com/dyzwnfpje/image/upload/v1757468583/article-4_image_nl5da5.png"
-          alt=""
-          style={{maxWidth: '400px', width: '100%', height: 'auto', borderRadius: '8px'}}
-          className="responsive-img"
-        />
-      </div>
-
-      <br/>
-     <p>John Biggs identifies 3 levels of thinking about teaching in terms of what is focused upon (Biggs 1999, chapter 4). At level 1 the focus is on what the student is, at level 2 the focus is on what the teacher does and at level 3 the focus is on what the student does. Teachers who are likely to be most sympathetic to fostering creativity in students' learning are likely to be thinking in ways that are consistent with the second and third levels — what do I need to do to promote this type of learning and what do students need to do to learn this way? Houghton (2002) added a fourth level called 'how the student manages what the student does', initially within frameworks created by the teacher, but ultimately negotiating or creating his/her own framework. This conception supports habits of self-regulated learning (Zimmerman 2000). The inference is that an expanded commitment to nurturing creativity will only occur if teacher perceptions of teaching and learning embrace these higher order and increasingly sophisticated conceptions.</p>
+    <h4>Le Mariage</h4>
+    <p>
+      Le mariage fournit aussi une source d’expression socioculturelle de grande importance chez l’africain. Généralement, le mariage remembre non seulement les parentés immédiates, mais toutes les familles de la communauté. C’est un fait sacré et le plus souvent, il est préludé et parachevé par de grandes fêtes parfois à prix coûtant. L’histoire dans La Tortue et l’Eléphant exemplifie ce type de mariage. Dans ce conte, on constate que la pratique de la polygamie est effectivement une partie intégrante et remarquable du mariage et qui est bien encadrée dans la tradition africaine. Jadis, la polygamie était une disposition qui commandait du respect dans la société africaine. L’abondance et l’influence d’un homme étaient basées sur le nombre de femmes et d’enfants que l’on peut compter dans son foyer. Ainsi, plus le nombre des membres d’une famille, plus l’étendue de terre cultivable et plus l’accroissement des biens et du respect pour telle famille. Néanmoins, la polygamie a aussi ses défauts. Elle engendre le plus souvent la jalousie et la haine qui détruisent la vie conjugale et familiale. Elle entraîne une sorte de rivalité entre les épouses. Par exemple dans Le Vol, un homme avait sept femmes dont l’une était stérile. Malgré cet état déjà assez navrant, elle était détestée par son mari. Mais le fait que les autres femmes n’avaient que des filles, rendait l’homme aussi malheureux. Ceci nous montre aussi en principe, l’importance d’un fils dans un foyer africain. Car lorsque la femme malheureuse met au monde un fils, il se développe un souci parmi les coépouses que la mère du garçon va devenir la plus aimée de leur mari, donc l’une des femmes décide de lui voler son enfant. Ce conte montre aussi que la jalousie et la haine sont des méfaits qui proviennent de la polygamie et qui entraînent de sérieux problèmes dans la famille.
+    </p>
     <br />
 
-    <h4>Sharing understandings and conceptions:</h4>
-    <p>Designing a curriculum to support creativity in students' learning works best when teaching teams develop a shared understanding of the different meanings of creativity for the particular learning contexts. In reaching an understanding it is helpful to examine what teachers understand by creativity. Subject benchmarking statements rarely mention creativity so there is plenty of scope for discussion within disciplinary communities.</p>
+    <h4>La Musique</h4>
+    <p>
+      La musique s’avère comme un important instrument socioculturel chez l’africain. La vie africaine est vide sans chanson. L’africain est constamment entouré de chants, dès sa naissance jusqu’au point de son exit du monde. Les chants célèbrent la naissance, marquent les rites d’initiation, annoncent le mariage, pleurent les morts et accompagnent les enterrements. Bien que cet aspect ne soit pas assez élaboré dans les contes présentés, la musique exprime la plupart des cas, les périsses et les sentiments des gens, surtout en Afrique. Elle permet également de condenser un temps historique et de le restituer avec ses heurs et ses malheurs. L’expression musicale exerce plus de poids que si elle était exprimée autrement. La musique peut symboliser une époque de bonheur révolue, une temporalité heureuse où palpitent les pulsations de la vie. Selon un adage anglais, “if music be the food of love, play it on”. Au contexte typiquement africain, les contes commencent et terminent par des chants et ceux-ci déterminent les éléments sentimentaux de ces contes.
+    </p>
     <br />
 
-    <h4>Developing the knowledge and skills of teachers:</h4>
-    <p>Helping students to be creative requires particular facilitation skills and the adoption of a collaborative pedagogic model. Building the knowledge and capacity for this type of teaching is an essential step in the development process. Growing knowledge that will help teachers and those who develop teaching to be more knowledgeable about the ways in which creativity in student learning can be nurtured, is the central concern of the Imaginative Curriculum project.</p>
+    <h4>L’Image de la Tortue dans les Contes Africains</h4>
+    <p>
+      De tous les animaux présentés dans les contes Ibibio, l’animal le plus mentionné est la tortue. C’est peut-être la raison pour laquelle l’auteur a intitulé son ouvrage – La Tortue. La moitié des contes figure comme personnage, la tortue. Et, elle y joue un rôle primordial et symbolique. La tortue est un animal très rusé et intelligent. Elle représente un attribut du bon et du mal en vertu de ses caractéristiques de sagesse ou de supercherie. Malgré sa taille ou sa petitesse, la tortue peut tromper et surpasser les grands et les plus forts des animaux. Ceci peut arriver soit dans un défi, soit pendant un concours ou dans n’importe quelle escroquerie.
+    </p>
+    <br />
+    <p>
+      Dans La Tortue et L’Eléphant, on voit comment la tortue a manoeuvré sa ruse sur l’éléphant, en raison de laquelle, ce dernier était tué pour fournir assez de viande à la fête d’un mariage royal. Aussi, dans La Carapace de La Tortue, on découvre la manière dont la tortue a joué un tour à ses amis dans le but de pouvoir tout seul, bouffer les vivres qu’on leur a présenté à l’occasion d’une fête tenant lieu au ciel.
+    </p>
+    <br />
+    <p>
+      Même que la tortue demeure comme roi des ruses. Elle représente en effet dans la société africaine, un symbole de la sagesse. La sagesse demeure une couleur socioculturelle importante dans la société Ibibio. Quand on parle de la sagesse, ce qui frappe aussitôt à la pensée est la vieillesse. Selon un adage africain, « la mort d’un vieillard est une bibliothèque qui brûle ». Ceci indique que les africains attachent trop d’importance à la vieillesse. Comme la tortue est un animal bien connu pour sa très longue espérance de vie, il va de soi que la vieillesse et la tortue représente la sagesse.
+    </p>
+    <br />
+    <p>
+      La sagesse traditionnelle forme parmi d’autres, un élément très important de la société qui figure très souvent dans les contes. Ainsi peut-on dire que la tortue et la vieillesse font les instruments conservateurs de la sagesse africaine. Dans La Sagesse Des Vieux, il est question de ténacité aux conseils des vieux. Cette condition domine très souvent le comportement des jeunes dans une société. Mbom était l’aimé de son père mais il ne suivait jamais les conseils de ce dernier. Après la mort de son père, Mbom est désillusionné parce qu’il n’a rien hérité de son père. Pour cela, tous les biens de la famille qui par droit d’héritier lui appartenaient, ont été légués à l’esclave fidèle. Troublé de regret par son attitude d’orgueil, Mbom va se prosterner devant les vieillards pour des conseils. Ceux-ci lui conseillent de choisir l’esclave. C’est ainsi que Mbom est arrivé à hériter tous les biens de son père grâce à la sagesse des vieux. Et il jure désormais, de ne jamais oublier que « c’est la sagesse du père qui permet au fils de vivre tranquille ». Également dans La Leçon du Roi, on a affaire à l’injustice d’un roi contre un étranger dans son royaume. Mais ce dernier s’est adroitement réglé par la sagesse de la reine en sa faveur. Donc la sagesse comme tous les autres éléments ci-dessus relevés dans les contes, forment aussi les traits socioculturels et traditionnels très remarquables chez les Ibibio.
+    </p>
     <br />
 
-    <h4>Mapping what already exists:</h4>
-    <p>Most programmes will contain within them opportunities for students to work in creative ways. Making these opportunities explicit and understanding the nature of the creative processes within these opportunities is a necessary first step in designing for creativity. When the mapping is completed additional ways and strategies in which creativity might be fostered can be considered.</p>
+    <h4>Les Leçons Morales des Contes</h4>
+    <p>
+      La littérature orale comme la littérature écrite, sert de miroir qui reflète les bonheurs et les malheurs de vie dans la société. C’est le domaine de la formation moraliste et civilisatrice aux jeunes africains à l’aide des mœurs africains voire le conte. En effet, on reconnaît le conte comme un sac plein de valeurs intellectuelles et culturelles de la civilisation africaine. Il passe pour une bibliothèque des traditions noires bon pour éduquer et socialiser les gens de la société. Car selon Finnegan (1979), « les contes sont racontés pour éduquer et socialiser les enfants en y tirant une morale pour avertir les citoyens contre la violation des normes de la société ». Dans chaque conte, il y a toujours un message qui s’appuie le plus souvent, sur la morale. Par exemple dans Le Roi des Grenouilles, on constate le désillusionnement que l’orgueil pourrait provoquer. N’oublions pas l’expression populaire « pêche d’orgueil ne va pas sans danger ». C’est justement le cas de notre jeune roi dans ce conte ; il devient orgueilleux aussitôt qu’il est prononcé roi élu. Il se constitue subitement en un homme qui peut tout, car tout est à sa disposition. Ceci conforme aussi à un proverbe Ibibio que, « l’oiseau en plein vol ne sait pas que ses pattes pointent vers la terre. ». En effet, la leçon de ce conte dénonce la vanité.
+    </p>
+    <br />
+    <p>
+      On dit souvent que le mensonge engendre le vol. C’est bien le cas dans La Tortue et l’Eléphant. Il s’agit ici d’un acte mensonger et du meurtre où la tortue a fallu mentir afin d’achever un but personnel au détriment de la vie de l’éléphant. En réalité, le mensonge et le meurtre constituent des vices sociaux et sur-ce, ils sont vivement condamnables dans la société humaine. Dans Les Chauves-Souris, l’on a fait face à la neutralité et à l’indifférence. La leçon morale dans ce conte exige que l’on doive toujours être en cause dans quoique ce soit, malgré la situation. Il nous enseigne d’être à toute fois, consistant dans nos décisions, car un joueur n’appartient jamais à la fois aux deux équipes en compétition.
+    </p>
+    <br />
+    <p>
+      De La Tortue et L’Escargot et La Carapace de la Tortue, se soulèvent des traits de la tricherie et de la jalousie. Selon le feu chanteur Peter Tosh, « if you are living in a glass house, don’t throw stone, if you can’t take blows, don’t throw blows » ce qui se traduit par « ne fait à autrui ce que vous ne voulez pas qu’on vous fasse ». Ce conte nous conseille de ne jamais tricher ou faire mal aux autres car chaque action est le plus souvent, accompagnée nécessairement des conséquences positives ou négatives.
+    </p>
+    <br />
+    <p>
+      La tortue est universellement connue pour sa tricherie et ses tromperies. Elle est égoïste et certes, forte dans l’escroquerie. Mais parfois, elle est aussi châtiée, déjouée et humiliée par les autres animaux. Donc dans les deux contes ci-dessous, la tortue a souffert des rétributions de ses méfaits envers les autres par la mort de sa propre mère et cela, de ses propres mains dans La Tortue et l’Escargot. Également dans La Carapace de La Tortue, elle a eu sa carapace bosselée.
+    </p>
+    <br />
+    <p>
+      L’Apartheid et d’autres formes de ségrégation n’existe pas seulement en Afrique du sud, mais partout. Ainsi dans Le Taureau et La Mouche, on ne condamne pas seulement la ségrégation au sens stricte de l’expression, mais on condamne également le fait d’utiliser sa puissance physique ou son affluence pour intimider les autres. Il nous enseigne donc à respecter et à reconnaître l’existence et les sentiments des autres. Toute société humaine, exige et préconise une corrélation paisible et amicale chez les individus, quelle que soit la race ou le fondement (traditionnel ou contemporain). Mais, elle dénonce la convoitise et l’injustice. Autrement dit : il ne faut pas profiter de son standing pour opprimer les autres. C’est bien le cas dans La Leçon du Roi, où un citoyen par son droit de citoyenneté, agit de connivence avec le roi pour convoiter les biens d’autrui parce que celui-ci est un étranger.
+    </p>
+    <br />
+    <p>
+      Existe-t-il un acte aussi honteux et déshonorable chez l’humanité dont il faut à tout prix éviter ? C’est le vol. Toutefois, le vol émane des poussées égoïstes, l’envie ou la jalousie. Dans Le Vol, une femme poussée par le désir personnel de devenir l’épouse aimée de la famille, jette son propre bébé-fille dans une voirie pour aller voler le bébé-fils d’autrui et le présenter comme son propre enfant. La leçon que l’on tire de ce conte est « mieux vaut tenir que courir ». C’est aussi dire qu’il faut être toujours content de ce que l’on a.
+    </p>
+    <br />
+    <p>
+      Le respect, comme on le dit souvent, ne s’achète pas. C’est une qualité de mérite et de réciprocité. Dans La Sagesse des Vieux, il est question du respect aux conseils des parents et des vieux. Le conte préconise l’obéissance prompte aux bons conseils des parents et aussi de la patience. Par contre, il condamne l’obstination. Car se dit-il souvent, « la poule têtue devient sobre dans la marmite ». Les contes africains constituent une école vivante pour la transmission des mœurs. Cependant, tous les comportements et les actes de l’homme africain sont imprégnés et informés par la religion. La Prière du Roi révèle la croyance absolue en Dieu et de la patience. Il évoque que la prière, la foi en Dieu et la patience sont de vraies clefs pour accabler tout malheur.
+    </p>
     <br />
 
-    <h4>Progression to independence:</h4>
-    <p>Nurturing creativity requires teachers to respect the goals, motivations for learning and decision making processes of learners. This way of thinking is consistent with the idea of enabling learners to become autonomous and self-regulating. A well designed curriculum will prepare students for learning creatively, equip them with a range of tools and encourage them to use and adapt these tools and work towards independence. Zimmerman's (2000) notion of self-regulated learning provides a good theoretical model on which to develop teacher conceptions and practice.</p>
+    <h3>Conclusion</h3>
+    <p>
+      Les contes constituent l’un des genres de la littérature servant à transmettre oralement les valeurs de la société dont ils sont issus. Dans les années passées, les contes avaient pour but, d’éduquer les gens de la société. Il servait à rehausser la droiture morale des gens surtout les jeunes. Mais avec l’arrivée de l’éducation occidentale, la valeur des contes semble tout à fait négligée. Mais la prise de conscience des écrivains noirs vise aujourd’hui, à la revalorisation de ce riche héritage culturel africain. Par conséquent, cet article a essayé d’analyser des aspects socioculturels et les idées moralisatrices dans les contes traditionnels africains tirés des dix contes dans La Tortue d’Elerius John. Bien entendu, les contes constituent un produit élémentaire et original de la tradition africaine. Ils sont de vraie source des folklores africains et jouent des rôles intégraux dans le système d’éducation civique, religieux et morale. Bref, le conte, comme tous genres de la littérature orale, porte un caractère normatif de la tradition africaine. Aussi, le conte apparaît comme une sorte de préparatoire d’une bible – non-écrite pleine de sagesse exceptionnelle léguée par les ancêtres à la postérité. Donc la négligence de ceci sera l’anéantissement total d’une culture.
+    </p>
     <br />
 
-    <h4>Openness to choice and negotiation:</h4>
-    <p>Teachers introduce the tools — concepts, strategies, information sources — and then have students practise them on problems and situations that they choose/identify. This requires teachers to be flexible and adaptable in their approach and to facilitate students' decision making. These characteristics of learning are also consistent with Zimmerman's model for self-regulated learning.</p>
-    <br />
-
-    <h4>Novel tasks:</h4>
-    <p>Students' learning is facilitated through tasks that promote divergent thinking and require them to draw from their learning in several modules and allow a variety of acceptable/appropriate/valid responses. Teachers might find themselves considering the plausibility of the solution and then awarding marks on the basis of students' accounts of their problem-working strategies. (NB. It is not a good idea to automatically join the phrase 'problem solving' with 'creativity'. The first is often convergent, the other employs both divergent and convergent thinking. Creative thinking techniques which promote both divergent and convergent thinking can be used to bridge the gap, Baillie in press).</p>
-    <br />
-
-    <h4>Developing students' knowledge about creative learning processes:</h4>
-    <p>If students understand the 'rules of the game' and why the programme is as it is, then they are better placed to reflect and enter into the spirit of the creativity game. The development of skills in creative thinking are particularly important in enabling students to think freshly and differently about their problem working situations (DeWulf and Baillie 1999).</p>
-    <br />
-
-    <h4>An emphasis on learning for understanding rather than learning for extensive content mastery:</h4>
-    <p>There is evidence that an emphasis on coverage encourages superficiality. Superficiality is not conducive to creativity. Understanding, which comes from covering less ground with more emphasis on the underlying concepts, strategies and assumptions, is conducive to creativity. Put it another way: cover less material but in ways that help students to understand more about the domain and its complex learning outcomes and their own engagement with the learning process. They might also approach problem working using creative thinking techniques which encourage divergent rather than convergent ways of thinking. The learning outcomes for creative learning are those used for extended understanding (Biggs 2002): being able to go beyond what has been taught; deal creatively with new situations; apply to novel contexts; hypothesize; reflect; connect and associate; generate ideas; and evaluate/judge the worth of ideas. Learning outcomes will also value the process of learning and recognise students' own unique outcomes and more general outcomes that were not planned or anticipated.</p>
-    <br />
-
-    <h4>Knowledge and capability/learning transfer:</h4>
-    <p>Being able to use knowledge, skill and behaviours developed in one context in another context is an important ingredient for creativity (Gardner 1993). The ways of thinking outlined above are important in the transfer of knowledge as well as the generation of knowledge. Encouraging learning that involves such behaviours is more likely to be achieved in situations that are experienced as novel and unpredictable to learners. This is what people encounter in real life and they can be simulated in the HE curriculum.</p>
-    <br />
-
-    <h4>Personal accounts of learning to promote reflection and further learning:</h4>
-    <p>The capacity to record, describe and evidence learning and the process of learning are central to metacognition. They encourage learners to recognise their own learning as it emerges and to make claims to understanding and achievement. There is a clear relationship with this aspect of creativity and personal development planning (Jackson 2002a). Teacher perceptions of their own learning are important here. Encouraging teachers to see the value of creating personal accounts of their own teaching process in order to reflect on and understand more deeply how process-based learning actually works is perhaps necessary in order to change belief systems that are not sympathetic to this way of learning (see Jackson 2003c for an example of a simple framework for recording teaching). Teacher participation in the construction and sharing of their own accounts of learning provides good role models for students.</p>
-    <br />
-
-    <h4>Openness to innovation and change:</h4>
-    <p>Possibilities for change need to be designed into the module from the beginning so that teachers and students can respond to what emerges from the process.</p>
-    <br />
-
-    <h4>Assessment:</h4>
-    <p>The current assessment model with its atomised approach to assessing learning at module/curriculum unit level is a major inhibitor of designs for creative learning which may need to foster development over a longer period of time and a range of contexts before assessing capability. The idea of synoptic assessments that enable students to draw together and apply their learning throughout a course (such as final level projects and dissertations) provides important opportunities for students to demonstrate their creativity. Strategies that require students to reveal their understanding of how they have acquired core learning outcomes from a course (e.g. through reflective report or portfolio) offers students another way of demonstrating their unique creativity.</p>
-    <br />
-
-    <p>Student instrumentalism driven by the teachers' belief that students only learn when they are assessed inhibits creativity. Narrow, summative-driven assessment practices and criteria that focus on what is known, which do not recognise the process of learning and how people come to know, or recognise emergent unanticipated learning outcomes, will smother creativity.</p>
-
-    <h3>Processes that foster creativity</h3>
-    <p>Many of the characteristics of designs for creative learning are those found in learning strategies that are process-based i.e. in which the process of learning is as important as the results of learning. Our emerging notion of an imaginative curriculum that nurtures and enhances students' creativity is one that is rich in the experiences of learning. Such learning environments are process-rich rather than being overloaded with content. They move away from teacher directed classroom situations and embrace more facilitated and collaborative models of teaching and learning. They work towards enabling students to be self-directing, self-regulating and resourceful learners. They give them space to learn through the experience and processes of learning. To achieve this condition students have to be properly prepared and supported. They need to acquire the habits and behaviours and self-awareness of self-regulated learners (Zimmerman 2000). Self-regulated learning involves self-determined processes and associated beliefs that initiate change and sustain learning in different contexts. It is fundamentally linked to:</p>
-
-    <ul style={{marginLeft: '20px'}}>
-      <li><strong>Metacognitive processes</strong> such as planning, organizing, self-instructing, self-monitoring and self-evaluating one's efforts to learn;</li>
-      <li><strong>behavioural processes</strong> such as selecting, structuring, and creating environments for learning;</li>
-      <li><strong>processes and beliefs that motivate self-regulated people to learn</strong> — such as beliefs about their own capabilities to learn, beliefs that the outcomes of learning will be worthwhile, intrinsic interest in the task and satisfaction or dissatisfaction with their own efforts to learn.</li>
-    </ul>
-    <br />
-    <p>Personal development planning is underpinned by the model of self-regulated learning (Jackson 2003c) and it is possible that this scientific theory of learning can be extended to other forms of process-based learning. There are a rich variety of learning processes and curriculum designs that provide experiences of learning in novel and emergent situations including — problem-based, enquiry-led, work-based, context-based, collaborative learning, game-play, role-play and simulations (Boyle and Smith 2002, Ellington 2002, Newman in press, O'Rourke and Kahn in press). There are also examples emerging of these processes being connected through the strategic process of personal development planning (Maggi Boyle University of Leeds personal communication). There are also lots of opportunities for experiential learning outside the formal curriculum and the academic curriculum for example through work experience, work placements, study abroad and learning in the community. Again PDP can be used as a tool for supporting, recognising and valuing this type of learning.</p>
-    <br />
-
-    <p>But it is not enough to have rich imaginations. Ultimately, we need the enthusiasm, commitment, skills and courage of teachers who are willing to experiment, take risks and translate their imaginations into creative learning experiences for their students.</p>
-
-    <h3>Sense of direction</h3>
-    <p>These emergent ideas on process-based learning provide us with a sense of direction. We are currently producing a number of curriculum guides which will be available through a dedicated web site <strong>www.surrey.ac.uk/Education/ic/1.htm</strong>. Our intention is to work towards a conference to share ideas about process-based learning and ways of nurturing students' creativity early in 2004. If you would like to contribute ideas or examples of courses that involve process-based learning, or you have an idea for a curriculum guide please contact the author at the LTSN Generic Centre.</p>
-    <br />
-
-    <p>Further information about the Imaginative Curriculum project and network can be found at <strong>www.ltsn.ac.uk/genericcentre/projects/curriculum</strong>. The booklet How to Foster Creativity by Simon DeWulf and Caroline Baillie can be purchased for £5 from the LTSN Generic Centre. A new booklet edited by Caroline Baillie How to Foster Creativity through Creative Thinking will be published in the autumn.</p>
-
-    <h3>References</h3>
+    <h3>Œuvres Citées</h3>
     <ul className="references">
-      <li>Baillie, C. (ed) (in press) The Travelling CASE: How to Foster Creativity through Creative Thinking Guide for HE teachers. UK Centre for Materials Education. Learning and Teaching Support Network.</li>
-      <li>Barnett, R (2000) Supercomplexity and the Curriculum. In M Tight (editor) Curriculum in Higher Education. Buckingham Open University Press.</li>
-      <li>Biggs, J.B. (1999) Teaching for Quality Learning at University Buckingham: Society for Research in Higher Education & Open University Press.</li>
-      <li>Boyle M. and Smith Y (2002) Simulation and gaming research yearbook. Employability: the role of Games, Simulations and Case Studies. SAGSET Society for the Advancement of Games and Simulations in Education and Training.</li>
-      <li>Dewulf S and Baillie C (1999) CASE Creativity in Art Science and Engineering: How to Foster Creativity. Department for Education and Employment. (Also reproduced in 2002 as part of Imaginative Curriculum Project).</li>
-      <li>Ellington H (2002) 2001 SAGSET Conference Keynote Address: Using games, simulations and case studies to develop key skills. SAGSET Society for the Advancement of Games and Simulations in Education and Training.</li>
-      <li>Gardner, H. (1993) Creating Minds. New York: Basic Books.</li>
-      <li>Houghton, W. (2002) Promoting constructive alignment through programme specification and subject benchmarks. Paper presented at the Imaginative Curriculum Symposium Constructive Alignment in Action', November.</li>
-      <li>McKim, R.H. (1980). Experiences in visual thinking. PWS Publishing Company Boston.</li>
-      <li>Zimmerman, B. J. (2000) Self-regulatory cycles of learning In C. A. Straka (ed) Conceptions of self-directed learning, theoretical and conceptual considerations. New York, Waxmann</li>
+      <li>Asante, Molefi Kete. <em>The History of Africa: The Quest for Eternal Harmony</em>. London: Routledge, 1980.</li>
+      <li>Hampate Bâ. <em>Aspect de la civilisation africaine</em>. Paris: Présence Africaine, 1972.</li>
+      <li>Iwoketok, Uwemedimo. E. <em>Beyond Entertainment: A study of Uko Akpan</em>. Bukuru (Nig). African Christian Textbooks (ACTS), 2001.</li>
+      <li>John, Elerius Edet. <em>La Tortue</em>. Paris: Silex, 1987.</li>
+      <li>Lustig, Myron W, and Koester, Jolene. <em>Intercultural Competence, Interpersonal Communication across Culture</em>. N.Y: Harper Collins Publisher, 1996.</li>
+      <li>Ly, Ibrahim. <em>Les nouvelles vivent des larmes</em>. Paris: Acct et Editions Karthala, 1986.</li>
+      <li>Maalu-Bungi, Crispin. <em>La littérature orale africaine: nature, genres, caractéristiques et fonctions</em>. Bruxelles, PIE. Peter Lang., 2006.</li>
+      <li>Mbiti, J. S. <em>African Religion and Philosophy</em>. London: Heinemann, 1988.</li>
+      <li>Norbeck, E. <em>Religion in Primitive Society</em>. London/New York; 1961.</li>
+      <li>Nyah, Peter. <em>Jeu de Danse et les Contes Ibibio</em>, sous presse.</li>
+      <li>Rosman, A. Rubel, U., Paula G. <em>The Tapestry of culture: An introductory to Cultural Anthropology</em>. N.Y: McGraw-Hill, 2001.</li>
     </ul>
-
-    <div style={{backgroundColor: '#f0f8ff', padding: '15px', margin: '20px 0', border: '1px solid #b3d9e8'}}>
-      <h4>Additional Online Resources</h4>
-      <p>The following articles can be found on the Generic Centre website www.ltsn.ac.uk</p>
-      <ul>
-        <li>Biggs, J B (2002) Aligning teaching and assessment to curriculum objectives. LTSN Imaginative Curriculum Guide.</li>
-        <li>Gough, D.A. Kiwan, D, Sutcliffe, S. Simpson O and Houghton N (2003) A systematic map and synthesis review of the effectiveness of personal development planning for improving student learning.</li>
-        <li>Jackson, N. J. (2002a). Personal Development Planning Curriculum Guide.</li>
-        <li>Jackson, N. J. (2002b). Designing for Creativity Curriculum Guide.</li>
-        <li>Jackson, N. J. (2003a). Personal accounts of teaching.</li>
-        <li>Jackson, N. J. (2003b). Guide for busy academics: A tool to evaluate self-regulatory behaviours in learning processes.</li>
-        <li>Jackson, N. J. (2003c). Connecting Personal Development Planning (PDP) to the theory of self-regulated learning.</li>
-        <li>Knight, R (2002). The idea of a creative curriculum. Imaginative Curriculum Network paper.</li>
-        <li>McGoldrick, C. (2002) Creativity and curriculum design: what do academics think? Commissioned Imaginative Curriculum Research Study. LTSN June.</li>
-        <li>Newman, M. (in press) Imaginative Curriculum Guide for Problem-based learning available October 2003, LTSN Generic Centre website.</li>
-        <li>Oliver, M. (2002) Creativity and curriculum design: what do academics think? Commissioned Imaginative Curriculum Research Study. LTSN June.</li>
-        <li>O'Rourke K. and Kahn, P (in press) Imaginative Curriculum Guide for Enquiry-based learning available September 2003, LTSN Generic Centre website.</li>
-        <li>Tait, J. (2002) What conditions and environment could support teachers in finding space for 'creativity' in their work with curriculum? Commissioned Imaginative Curriculum Research Study. LTSN June.</li>
-      </ul>
-    </div>
-
-    <div className="author-info" style={{marginTop: '20px', padding: '15px', backgroundColor: '#f9f9f9', borderLeft: '4px solid #333'}}>
-      <p><strong>Norman Jackson</strong> is affiliated with LTSN Generic Centre and University of Surrey.</p>
-    </div>
   </div>
 );
-
 export default Article4;

@@ -1,4 +1,4 @@
-const Article5 = () => (
+const Article5gg = () => (
   <div className="container" style={{width: '100%'}}>
     <h2>DISTRIBUTION OF MODERN CRICKET BOWLING ACTIONS IN NEW ZEALAND</h2>
     <p className="authors">RENE FERDINANDS, UWE G. KERSTING, ROBERT N. MARSHALL & MAX STUELCKEN</p>
@@ -102,4 +102,4 @@ const Article5 = () => (
   </div>
 );
 
-export default Article5;
+export default Article5gg;

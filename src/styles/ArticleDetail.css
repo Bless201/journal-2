@@ -19,7 +19,8 @@
 }
 
 .article-detail h2 {
-  color: #1a3a5f;
+  /* color: #1a3a5f; */
+  color: rgb(131, 27, 27);
   margin-bottom: 0.5rem;
 }
 
@@ -30,7 +31,8 @@
 }
 
 .article-detail h3 {
-  color: #1a3a5f;
+  /* color: #1a3a5f; */
+  color: rgb(131, 27, 27);
   margin: 1.5rem 0 1rem 0;
   border-bottom: 1px solid #e9ecef;
   padding-bottom: 0.5rem;
@@ -39,7 +41,8 @@
 .abstract {
   background-color: #f8f9fa;
   padding: 1rem;
-  border-left: 4px solid #1a3a5f;
+  /* border-left: 4px solid #1a3a5f; */
+  border-left: 4px solid rgb(131, 27, 27);
   margin: 1.5rem 0;
   font-style: italic;
 }
@@ -63,7 +66,8 @@
 }
 
 .navigation a {
-  color: #1a3a5f;
+  /* color: #1a3a5f; */
+  color: rgb(131, 27, 27);
   text-decoration: none;
   font-weight: 500;
 }

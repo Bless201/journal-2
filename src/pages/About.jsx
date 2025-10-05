@@ -8,7 +8,7 @@ const About = () => {
         
         <section>
           <h2>Aims and Scope</h2>
-          <p>The African International Journal of Educational Learning is a peer-reviewed academic journal that publishes original research and review articles in the fields of education, learning methodologies, sports science, and related interdisciplinary studies. The journal serves as a platform for African and international scholars to share innovative research that contributes to the advancement of educational theory and practice.</p>
+          <p>The International Journal of Educational Learning is a peer-reviewed academic journal that publishes original research and review articles in the fields of education, learning methodologies, sports science, and related interdisciplinary studies. The journal serves as a platform for African and international scholars to share innovative research that contributes to the advancement of educational theory and practice.</p>
         </section>
         
         <section>
@@ -29,9 +29,9 @@ const About = () => {
         
         <section>
           <h2>Contact Information</h2>
-          <p>African International Journal of Educational Learning</p>
+          <p>International Journal of Learning</p>
           <p>P.O. Box 12345</p>
-          <p>Nairobi, Kenya</p>
+          <p>New Jersey, U.S.A</p>
           <p>Email: editor@aijel.org</p>
           <p>Phone: +254 20 123 4567</p>
         </section>

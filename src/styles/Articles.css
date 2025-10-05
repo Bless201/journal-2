@@ -4,6 +4,7 @@
 
 .articles h1 {
   color: #1a3a5f;
+  color: rgb(131, 27, 27);
   text-align: center;
   margin-bottom: 0.5rem;
 }
@@ -29,6 +30,7 @@
 
 .article-item h2 {
   color: #1a3a5f;
+  color: rgb(131, 27, 27);
   margin-bottom: 0.5rem;
 }
 
@@ -49,4 +51,5 @@
   margin-bottom: 0.5rem;
   font-size: 0.8rem;
   color: #495057;
+  color: rgb(109, 90, 90);
 }

@@ -15,9 +15,9 @@ const Header = () => {
       <div className="container">
         <div className="logo">
           <Link to="/">
-            <h1>African International Journal of Educational Learning</h1>
+            <h1>International Journal of Learning</h1>
           </Link>
-          <p>Vol. 12, June 2025</p>
+          <p>Vol. 37, June 2025</p>
         </div>
         <button className="menu-toggle" onClick={toggleMenu}>
           <span></span>

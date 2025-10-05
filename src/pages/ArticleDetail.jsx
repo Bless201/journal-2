@@ -10,6 +10,12 @@ import Article6 from '../articles/Article6';
 import Article7 from '../articles/Article7';
 import Article8 from '../articles/Article8';
 import Article9 from '../articles/Article9';
+import Article10 from '../articles/Article10';
+import Article11 from '../articles/Article11';
+import Article12 from '../articles/Article12';
+import Article13 from '../articles/Article13';
+import Article14 from '../articles/Article14';
+import Article15 from '../articles/Article15';  
 const ArticleDetail = () => {
   const { id } = useParams();
   
@@ -33,6 +39,18 @@ const ArticleDetail = () => {
         return <Article8 />;
       case '9':
         return <Article9 />;
+      case '10': 
+        return <Article10 />;
+      case '11':
+        return <Article11 />; 
+      case '12':
+        return <Article12 />;
+      case '13':
+        return <Article13 />;
+      case '14':
+        return <Article14 />;
+      case '15':
+        return <Article15 />;
       default:
         return (
           <div>
@@ -52,7 +70,7 @@ const ArticleDetail = () => {
         <div className="navigation">
           <a href={`/article/${parseInt(id) - 1}`} className={parseInt(id) <= 1 ? 'disabled' : ''}>Previous Article</a>
           <a href="/articles">Back to Articles</a>
-          <a href={`/article/${parseInt(id) + 1}`} className={parseInt(id) >= 9 ? 'disabled' : ''}>Next Article</a>
+          <a href={`/article/${parseInt(id) + 1}`} className={parseInt(id) >= 15 ? 'disabled' : ''}>Next Article</a>
         </div>
       </div>
     </div>

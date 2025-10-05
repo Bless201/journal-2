@@ -8,7 +8,7 @@ const Articles = () => {
     <div className="articles">
       <div className="container">
         <h1>Journal Articles</h1>
-        <p className="page-description">Volume 12, June 2025 - All Published Articles</p>
+        <p className="page-description">Volume 37, June 2025 - All Published Articles</p>
         
         <div className="articles-list">
           {articles.map(article => (

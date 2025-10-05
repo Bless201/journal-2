@@ -6,8 +6,8 @@ const Home = () => {
     <div className="home">
       <div className="hero">
         <div className="container">
-          <h2>African International Journal of Educational Learning</h2>
-          <p>Volume 12, June 2025 - Featuring cutting-edge research in education and sports science</p>
+          <h2>International Journal of Learning</h2>
+          <p>Volume 37, June 2025 - Featuring cutting-edge research in education and science</p>
         </div>
       </div>
       
@@ -16,23 +16,23 @@ const Home = () => {
           <h2>Featured Articles</h2>
           <div className="article-grid">
             <div className="article-card">
-              <h3>Recovery Following an Ironman Triathlon: A Case Study</h3>
-              <p className="authors">Kazunori Nosaka, Chris R. Abbiss, Greig Watson, Bradley Wall, Katushiko Suzuk, and Paul Laursen</p>
-              <p>Examines the time course of recovery from muscle damage following an Ironman event in a trained triathlete.</p>
+              <h3>Determinants Of Technical Efficiency Of Tomato Growers In The Brong-Ahafo Region Of Ghana</h3>
+              <p className="authors">DR Vijay K. Bhasin</p>
+              <p>Identifies the determinants of technical efficiency of agricultural households that grow tomato in the Berekum, Dormaa, and Asutifi districts of the Brong-Ahafo Region of Ghana.</p>
               <Link to="/article/1" className="read-more">Read Article</Link>
             </div>
             
             <div className="article-card">
-              <h3>Putting the 'E' into 'QA'</h3>
-              <p className="authors">Haydn Mathias</p>
-              <p>Analysis of challenges in engaging staff and institutions in quality enhancement within Quality Assurance processes.</p>
+              <h3>Effect Of Menstration On Bicarbonate Concentration Among Ogun State Female Endurance Athletes</h3>
+              <p className="authors">Okesanya Adeyemi T. (PHD), Joy N. Akameze (PHD) & Dossou Joseph Leo-Paul</p>
+              <p>Examines the effects of menstruation on aerobic power among Ogun State female endurance athletes. </p>
               <Link to="/article/2" className="read-more">Read Article</Link>
             </div>
             
             <div className="article-card">
-              <h3>Problems Arising from the 2001 Education Act with Inclusive Primary Schools</h3>
-              <p className="authors">Christine Howes</p>
-              <p>Examines difficulties with support teaching allocation in inclusive primary schools and proposes an alternative system.</p>
+              <h3>Assessing Transaction Costs In Micro And Small Enterprises (MSEs) Credit Schemes: A Case Study Of Schemes In Arusha And Mwanza Districts</h3>
+              <p className="authors">Rweyemanu, D.C., Mwakalobo, B. And Kajuna, J.</p>
+              <p>Investigates the transaction costs in Micro and Small Enterprise (MSEs) credit schemes in Mwanza and Arusha districts. </p>
               <Link to="/article/3" className="read-more">Read Article</Link>
             </div>
           </div>
@@ -44,7 +44,7 @@ const Home = () => {
         
         <section className="journal-info">
           <h2>About the Journal</h2>
-          <p>The African International Journal of Educational Learning is a peer-reviewed academic journal publishing research in education, learning methodologies, sports science, and related interdisciplinary studies. Based in Nairobi, Kenya, the journal serves as a platform for African and international scholars to share innovative research.</p>
+          <p>International Journal of Learning is a peer-reviewed journal, published two times a year (January and November) by Montclaire State University New Jersey U.S.A., on behalf of the Learning Society.</p>
           <Link to="/about" className="button">Learn More</Link>
         </section>
       </div>
