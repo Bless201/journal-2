@@ -162,7 +162,7 @@ const Article11 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Own and cross price elasticities
@@ -245,7 +245,7 @@ const Article11 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 2: Own and cross price elasticities

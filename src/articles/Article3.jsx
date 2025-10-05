@@ -304,7 +304,7 @@ const Article3 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Schedule of Research Activities and Work Plan
@@ -427,7 +427,7 @@ const Article3 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 2: Research Budget in USD

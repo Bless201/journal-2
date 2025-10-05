@@ -170,7 +170,7 @@ const Article2 = () => (
     <i>Data Presentation</i>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Distribution of subjects by demographic variables
@@ -221,7 +221,7 @@ const Article2 = () => (
     <p>From table 1 above, it could be observed that the mean age of subjects was 21.90 years, with a standard deviation of 3.89. Likewise, the mean height of subjects was observed to be 5.5 meters, with a standard deviation of 0.33. Furthermore, the average weight of subjects stood at 56.25 and (SD=9.62) standard deviation of 9.62. this implies that majority of the athletes are adults, with average height and weight.</p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 2: Hypotheses 1. Means, SD and t-test result on effect of menstruation on aerobic power of female endurance athletes of Ogun State
@@ -260,7 +260,7 @@ const Article2 = () => (
     <p>It could be observed from table 2 above that a significant t-value (t=6.23; P&lt;0.05) was obtained at 0.05 level of significance. Therefore, hypothesis one which states that menstruation will have no significant effect on the aerobic power of female endurance athletes of Ogun State was rejected. This implies that menstruation had significant effect on the aerobic power of female endurance athletes of Ogun State. This can be buttressed by the significant lower aerobic power (1902.55) recorded during menstruation as compared with that recorded before menstruation. The lower aerobic power recorded during menstruation as compared with that before menstruation is a clear attestation to the extent to which menstruation affects aerobic power of female athletes. This finding corroborate the result of Freemas, Baranauskas, Constantini, Constantini, Greenshields, Mickleborough, Raglin, & Schlader, (2021) who reported that, menstruation has been shown to influence aerobic performance in trained and untrained women, they added that, trained women experience reduced aerobic capacity (measured as VO2 peak) during their luteal phase, and untrained women experience a reduced cycling power output during their mid-luteal phase.</p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 3: Hypotheses 2. Means, SD and t-test result of menstruation effect on Bicarbonate concentration of female endurance athletes

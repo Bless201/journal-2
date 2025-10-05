@@ -124,7 +124,8 @@ const Article9 = () => (
 
     <h3>Results</h3>
     <h4>Hypothesis 1: Health Belief Model is not a good predictor of mothers’ intention to utilise insecticide treated nets</h4>
-    <div style={{ overflowX: 'auto', marginBottom: '20px' }}>
+    
+    <div className="table-container responsive-table-scroll" style={{ overflowX: 'auto', marginBottom: '20px' }}>
       <table style={{ width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd' }}>
         <caption style={{ marginBottom: '10px', fontWeight: 'bold', textAlign: 'left' }}>
           Table 1: ANOVA Results of the Model Regression Analysis
@@ -200,7 +201,8 @@ const Article9 = () => (
     <br />
 
     <h4>Hypothesis 2: Belief in personal threat does not significantly predict mothers’ intention to utilise the ITNs over and above the belief in the effectiveness of health behaviour.</h4>
-    <div style={{ overflowX: 'auto', marginBottom: '20px' }}>
+    
+    <div className="table-container responsive-table-scroll" style={{ overflowX: 'auto', marginBottom: '20px' }}>
       <table style={{ width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd' }}>
         <caption style={{ marginBottom: '10px', fontWeight: 'bold', textAlign: 'left' }}>
           Table 2: Regression model showing Belief in personal threat as a predictor of mothers’ intention to utilise the ITNs
@@ -267,7 +269,7 @@ const Article9 = () => (
     </p>
     <br />
 
-    <div style={{ overflowX: 'auto', marginBottom: '20px' }}>
+    <div className="table-container responsive-table-scroll" style={{ overflowX: 'auto', marginBottom: '20px' }}>
       <table style={{ width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd' }}>
         <caption style={{ marginBottom: '10px', fontWeight: 'bold', textAlign: 'left' }}>
           Table 3: Summary of the multiple correlational coefficient of determination and change statistics of the prediction model
@@ -328,7 +330,8 @@ const Article9 = () => (
     <br />
 
     <h4>Hypothesis 3: Belief in effectiveness of health behavior does not significantly mothers intention to utilise ITNs over and above belief in personal threat</h4>
-    <div style={{ overflowX: 'auto', marginBottom: '20px' }}>
+    
+    <div className="table-container responsive-table-scroll" style={{ overflowX: 'auto', marginBottom: '20px' }}>
       <table style={{ width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd' }}>
         <caption style={{ marginBottom: '10px', fontWeight: 'bold', textAlign: 'left' }}>
           Table 4: Predictor regression model coefficient correlation result to belief in effectiveness of health behaviour as a predictor of mothers intention to utilise ITNs
@@ -376,7 +379,7 @@ const Article9 = () => (
     </p>
     <br />
 
-    <div style={{ overflowX: 'auto', marginBottom: '20px' }}>
+    <div className="table-container responsive-table-scroll" style={{ overflowX: 'auto', marginBottom: '20px' }}>
       <table style={{ width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd' }}>
         <caption style={{ marginBottom: '10px', fontWeight: 'bold', textAlign: 'left' }}>
           Table 5: Summary of the multiple correlation coefficient of determination and change statistics of the prediction model

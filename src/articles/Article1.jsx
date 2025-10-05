@@ -29,7 +29,7 @@ const Article1 = () => (
     </p>
     <br />
     
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: GDP by sector at constant 1993 prices (Percent), 1995-2000
@@ -98,7 +98,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 2: Production, Area under Cultivation, and Imports of Tomatoes in Ghana, 1983-2000
@@ -398,7 +398,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 3: Population and Sample size of Agricultural Households by District/Locality
@@ -565,7 +565,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 4: Age Composition of the Head of Agricultural Households by sex and district
@@ -694,7 +694,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 5: Educational Background of the Head of Agricultural Households
@@ -805,7 +805,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 6: Percentage Contribution of Sources of Income to Agricultural Household Income
@@ -885,7 +885,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 7: Type of Organic Manure Used by Agricultural Households in Districts
@@ -950,7 +950,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 8: Type of Fertilizer Used by Agricultural Households in Districts
@@ -1006,7 +1006,7 @@ const Article1 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 9: Types of Crop Rotation Practiced by Agricultural Households in Districts

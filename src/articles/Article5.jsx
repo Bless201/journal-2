@@ -55,7 +55,7 @@ const Article5 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Descriptive statistics of absolute body size and somatotypes of female basketball and handball players at the Harare All-Africa Games.

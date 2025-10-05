@@ -73,7 +73,7 @@ const Article10 = () => (
     </p>
     <br />
 
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Descriptive statistics for stature, sitting height, leg length and height for-age (HAZ) z-scores of street boys and American NHANES reference sample (Frisancho, 1990).

@@ -121,7 +121,8 @@ const Article7 = () => (
 
     <h3>Results</h3>
     <h4>Hypothesis 1: There is no significant difference in the relationship among gender ideology, self concept and participation of Benin women in adult learning programmes.</h4>
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+   
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 1: Pearson’s r of gender ideology on women’s self-concept and participation in adult learning programmes
@@ -159,7 +160,8 @@ const Article7 = () => (
     <br />
 
     <h4>Hypothesis 2: There is no significant difference in the relationship among gender ideology, self concept and participation in adult learning programmes by age</h4>
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 2: Fisher’s z of Influence of gender ideology on self-concept and participation in adult learning programmes by age
@@ -201,7 +203,8 @@ const Article7 = () => (
     <br />
 
     <h4>Hypothesis 3: There is no significant difference in the relationship among gender ideology, self concept and participation in adult learning programmes by marital status.</h4>
-    <div style={{overflowX: 'auto', marginBottom: '20px'}}>
+    
+    <div className="table-container responsive-table-scroll" style={{overflowX: 'auto', marginBottom: '20px'}}>
       <table style={{width: '100%', borderCollapse: 'collapse', border: '1px solid #ddd'}}>
         <caption style={{marginBottom: '10px', fontWeight: 'bold', textAlign: 'left'}}>
           Table 3: Fisher’s z of Influence of gender ideology on self-concept and participation in adult learning programmes by marital status
