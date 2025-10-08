@@ -325,7 +325,7 @@ const Article2 = () => (
       <li>Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/inter individual variability. Sports Med, 47(Suppl 1), 111-128</li>
       <li>Brayan, S., Laguna, F., Elimear, D., & Paul, S. (2021). Sodium supplementation and the female athlete: A brief commentary with small scale systematic review and meta-Analyysis. European Journal of Sport Science. 22 (1). </li>
       <li>Christensen, P. M., Petersen, M. H., Fris S. N. & Bangsbo,  J. (2014). Caffeine, but not bicarbonate, improves 6 min maximal performance in elite rowers. Applied physiology, nutrition, and metabolism = Physiologie Appliquee, Nutrition et Metabolisme 39 (9), 1058–1063.</li>
-      <li>Cleveland Clinic, (2022).  Normal Menstruation. Online. Available from https://my.clevelandclinic.org  Retrieved on 12/6/2022</li>
+      <li>Cleveland Clinic, (2022).  Normal Menstruation.</li>
       <li>Conley, C. L. (2021). Blood Biochemistry</li>
       <li>Deb, S. K., Gough, L. A., Sparks, S. A., McNaughton, L. R. (2018). Sodium bicarbonate supplementation improves severe-intensity intermittent exercise under moderate acute hypoxic conditions. European Journal of Applied Physiology 118 (3), 607–615.</li>
       <li>Eunice, K. S. (2017). What causes menstrual irregularities? National Institute of child health and human development.</li>
