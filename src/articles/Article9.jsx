@@ -472,41 +472,41 @@ const Article9 = () => (
     <ul className="references">
       <li>Acosta, A., Koenker, H., Brown, A., Ricotta, E., Yukich, J., & Babalola, S. (2019). Social and behavior change for insecticide-treated nets. VectorWorks Project, Johns Hopkins Bloomberg School of Public Health Center for Communication Programs.</li>
       <li>Adejoh, S.O., Alabi, T.A. & Ezehukwu C. (2023). Regional variation in child and mothers characteristics influencing the use of insecticide treated net in Nigeria. Journal of Biosocial Science, 55(2), 326-343.</li>
-      <li>Ajayi, M. Y., & Emeto, D. C. (2023). Awareness and acceptability of malaria vaccine among caregivers of under-5 children in Northern Nigeria. Malaria Journal, 22, Article 329. https://doi.org/10.1186/s12936-023-04768-z</li>
-      <li>Ajegena, B. K. & Oti, V.B. (2020). The challenges of using insecticides treated nets (ITNs) in curbing malaria in Nigeria: A 2000-2018 Systematic Review. J Infect Dis Epidemiol 6, 140. doi.org/10.239337/24743658/1510140.</li>
-      <li>Akello, A.R., Byagamy, J.P., Etajak, S. et al. (2022) Factors influencing consistent use of bed nets for the control of malaria among children under 5 years in Soroti District, North Eastern Uganda. Malar J, 21, 363. https://doi.org/10.1186/s12936-022-04396-z</li>
+      <li>Ajayi, M. Y., & Emeto, D. C. (2023). Awareness and acceptability of malaria vaccine among caregivers of under-5 children in Northern Nigeria. Malaria Journal, 22, Article 329. </li>
+      <li>Ajegena, B. K. & Oti, V.B. (2020). The challenges of using insecticides treated nets (ITNs) in curbing malaria in Nigeria: A 2000-2018 Systematic Review. J Infect Dis Epidemiol 6, 140. </li>
+      <li>Akello, A.R., Byagamy, J.P., Etajak, S. et al. (2022) Factors influencing consistent use of bed nets for the control of malaria among children under 5 years in Soroti District, North Eastern Uganda. Malar J, 21, 363. </li>
       <li>Akin, A. R. (2012). Malaria and preventive strategy in the tropic: Exploring an expanded concept. Mothers, 225, 33.</li>
       <li>Akogun, B. O. (2015). Public health clinical pathology (3rd ed.). W. B. Saunders.</li>
       <li>Albert, B. (2012). Initial Delineation of Health Education. Cognitive Development. Washington, DC</li>
-      <li>Alsulaiman, S. A., & Rentner, T. L. (2021). The use of the health belief model to assess U.S. college students' perceptions of COVID-19 and adherence to preventive measures. Journal of Public Health Research, 10(4), 2273. https://doi.org/10.4081/jphr.2021.2273</li>
+      <li>Alsulaiman, S. A., & Rentner, T. L. (2021). The use of the health belief model to assess U.S. college students' perceptions of COVID-19 and adherence to preventive measures. Journal of Public Health Research, 10(4), 2273. </li>
       <li>Ankomah, A., Adebayo, S. B., Arogundade, E. D., Anyanti, J., Nwokolo, E., Ladipo, O., & Meremikwu, M. M. (2012). Determinants of insecticide-treated net ownership and utilization among pregnant women in Nigeria. BMC Public Health, 12(1), 105.</li>
       <li>Bandura, A. (2012). Initial Delineation of Health Education. Cognitive Development, Usdhe publishing: Washington, DC</li>
-      <li>Barrow, A., Ogidan, O. C., Nzoputam, C. I., & Ekholuenetale, M. (2025). Coverage and contextual factors associated with insecticide-treated net use among women of reproductive age in Nigeria: evidence from the 2021 malaria indicator survey data. PLOS global public health, 5(2), e0004207. https://doi.org/10.1371/journal.pgph.0004207</li>
+      <li>Barrow, A., Ogidan, O. C., Nzoputam, C. I., & Ekholuenetale, M. (2025). Coverage and contextual factors associated with insecticide-treated net use among women of reproductive age in Nigeria: evidence from the 2021 malaria indicator survey data. PLOS global public health, 5(2), e0004207. </li>
       <li>Beer, N., Ali, A. S., Eskilsson, H., Jansson, A., Abdul-Kadir, F. M., Rotllant-Estelrich, G., Abass, A. K., Wabwire-Mangen, F., Björkman, A., & Källander, K. (2012). Health Belief Model and the Theory of Planned Behavior.</li>
       <li>Bliss, M.I., Esthertovia, I.M., Goshen, M.D. & Zenith, O.M. (2015). Effects of Indoor Residual Spray on Mothers and Children in Africa. Society of Environmental, Pathology and Health Education. 6(4):2-4.</li>
       <li>Carol, M., Mark, S., Gary, A., Cara, B. & Brenda, O. (2015). Research Perspective</li>
       <li>Cederlund, J. (2020). Association between maternal level of education and treatment with antimalarial drugs in children under five years in Nigeria: a cross-sectional study. Master degree project in Global Health, Department of women and children health, Uppsala Universitet. Divaportal. htttp://www.divaportal.org</li>
       <li>Davis, A.A. (2013). The Psychology of Plasmodium Falciparum Communication and Prevention, Recommendation in Africa. Morbidity Mortality. Weekly report, 17: 3 -12</li>
-      <li>Ezire, O., Adebayo, S. B., Idogho, O., Bamgboye, E. A., & Nwokolo, E. (2015). Determinants of use of insecticide-treated nets among pregnant women in Nigeria. International journal of women's health, 7, 655–661. https://doi.org/10.2147/IJWH.S77807.</li>
-      <li>Green, E. C., Murphy, E. M. & Grybosky K. (2020). The Health Belief Model. https://www.researchgate.net/publication/346891594.</li>
-      <li>Hopkins, D. (2015). “Long-Lasting Insecticidal-Nets Purpose” Medical Hypotheses 72: 289-292. http://www.epa.ikpowie/ttn/gmail/landfill/bidfl.pdf.</li>
-      <li>Kakaire, C. N., & Christofides, N. (2023). The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District, Uganda. Plos One, 18(7), e0289097. https://doi.org/10.1371/journal.pone.0289097</li>
-      <li>Kotepui, M., Kotepui, K.U., Milanez, G.D. et al. (2020). Global prevalence and mortality of severe Plasmodium malariae infection: a systematic review and meta-analysis. Malar J 19, 274. https://doi.org/10.1186/s12936-020-03344-z</li>
+      <li>Ezire, O., Adebayo, S. B., Idogho, O., Bamgboye, E. A., & Nwokolo, E. (2015). Determinants of use of insecticide-treated nets among pregnant women in Nigeria. International journal of women's health, 7, 655–661. .</li>
+      <li>Green, E. C., Murphy, E. M. & Grybosky K. (2020). The Health Belief Model. </li>
+      <li>Hopkins, D. (2015). “Long-Lasting Insecticidal-Nets Purpose” Medical Hypotheses 72: 289-292. .</li>
+      <li>Kakaire, C. N., & Christofides, N. (2023). The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District, Uganda. Plos One, 18(7), e0289097. </li>
+      <li>Kotepui, M., Kotepui, K.U., Milanez, G.D. et al. (2020). Global prevalence and mortality of severe Plasmodium malariae infection: a systematic review and meta-analysis. Malar J 19, 274. </li>
       <li>Ma, C., Claude, K. M., Kibendelwa, Z. T., Brooks, H., Zheng, X., & Hawkes, M. (2017). Is maternal education a social vaccine for childhood malaria infection? A cross-sectional study from war-torn Democratic Republic of Congo. International Journal for Equity in Health, 16, 98.</li>
-      <li>Mitiku, I., & Assefa, A. (2017). Caregivers' perception of malaria and treatment-seeking behaviour for under five children in Mandura District, West Ethiopia: a cross-sectional study. Malaria journal, 16(1), 144. https://doi.org/10.1186/s12936-017-1798-8</li>
+      <li>Mitiku, I., & Assefa, A. (2017). Caregivers' perception of malaria and treatment-seeking behaviour for under five children in Mandura District, West Ethiopia: a cross-sectional study. Malaria journal, 16(1), 144. </li>
       <li>On Tropical disease - Testicular Self-examination: a Test of the Health</li>
-      <li>Orji, R., Vassileva, J., & Mandryk, R. (2012). Towards an effective health interventions design: an extension of the health belief model. Online Journal of Public Health Informatics, 4(3), ojphi.v4i3.4321. https://doi.org/10.5210/ojphi.v4i3.4321</li>
+      <li>Orji, R., Vassileva, J., & Mandryk, R. (2012). Towards an effective health interventions design: an extension of the health belief model. Online Journal of Public Health Informatics, 4(3), ojphi.v4i3.4321. </li>
       <li>Powell, J.J. (2014). Biology of malaria and its prevention in Africa. New England Journal of Medicine, 111(22), 12-15</li>
       <li>Prinsloo, N. N. (2015). Epidemiology of malaria in the global perspective. Journal of Community Medicine and Management, 1(2), 1–7.</li>
       <li>Rosenstock, I. M., Godfrey, H., Stephen, K. & Howard, L. (1997). The Psychology of Learning: Implications for Cognitive Development. Oakland, CA: Young Publishing.</li>
       <li>Sallau, A.K. (2014). Social and Psychological Consequences of Malaria Disease. Reviews of Medical research, 68: 1, PP. 55 – 60.</li>
       <li>Shekarau, E., Uzoanya, M., Ogbulafor, N. (2024). Severe malaria intervention status in Nigeria: Workshop meeting report. Malar J, 23, 177. http://10.1186/s12936-024-05001-1</li>
       <li>WHO (2015). Report of Seminar on Structures of Malaria control in Africa with Special Reference to West Africa, Lagos: September 8.</li>
-      <li>WHO (2024). Highlights from the global malaria programme annual report 2024. https://iris.who.int/bitstream/handle/10665/380903/9789240107908-eng.pdf?sequence=1</li>
+      <li>WHO (2024). Highlights from the global malaria programme annual report 2024. </li>
       <li>WHO (2024). Regional data and trends briefing kits: World malaria report 2024.</li>
       <li>WHO Africa Region (2023). Lives at risk: Malaria in pregnancy. http://www.afro.who.int/news</li>
       <li>WHO. (2017). External evaluation of the national malaria control programme Myanmar, 6–19 March 2016. World Health Organization, Country Office for Myanmar.</li>
-      <li>Yirsaw, A. N., Grebremariam, R. B., Getnet, W. A. & Mi, M. S. (2021). Insecticide treated net utilization and associated factors among pregnant women and children in East Belessa District, Northwest Ethiopia: Using the Health Belief Model. Malaria Journal, 20, 130. https://doi.org/10.1186/s12936-021-03666-6</li>
+      <li>Yirsaw, A. N., Grebremariam, R. B., Getnet, W. A. & Mi, M. S. (2021). Insecticide treated net utilization and associated factors among pregnant women and children in East Belessa District, Northwest Ethiopia: Using the Health Belief Model. Malaria Journal, 20, 130. </li>
     </ul>
   </div>
 );
