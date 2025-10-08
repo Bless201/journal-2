@@ -465,7 +465,7 @@ const Article13 = () => (
       <li>Marsh, JC. (2004). Key Concepts for Understanding Curriculum 3th Edition, London: Routledge Falmer.</li>
       <li>Martin et al, (1997). Teaching Science for Children. Boston: Allyn Bacon.</li>
       <li>Muttarak, R., and W. Pothisiri, (2013). The Role of Education on Disaster Preparedness: Case Study of 2012 India Ocean Earthquake on Thailand's Andaman Coast. Ecology & Society 18(4):51. http://dx.doi.org/10.5751/ESO6101-180451.</li>
-      <li>OCHA, (2014). Dampak Bencana Alam Meningkat: Indonesia Humanitarian Buletin. (Online), http://indonesiahumanitarianresponse.</li>
+      <li>OCHA, (2014). Dampak Bencana Alam Meningkat: Indonesia Humanitarian Buletin. (Online), http://indonesiahuman.</li>
       <li>Panic, M., Majkic', i.K., Miljanovic'. D., Miletic'. R., (2013). Importance of Natural Disaster Education-Case Study of the Earthquake Near The City of Kraljevo-First Result, J. Geogr. Inst. Cvijic. 63(1) (75-88). Available on line at www.gi.sanu.ac.rs.</li>
       <li>Preston, I., (2012). Disaster Education "Race" Equity and Pedagogy, Netherlands: Rotterdam</li>
       <li>Sandra K.A, Ken A, Deborah LH, (2010). Designing and Teaching the Elementary Science Method Course. New York: Routledge.</li>
