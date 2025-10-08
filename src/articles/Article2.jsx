@@ -320,7 +320,7 @@ const Article2 = () => (
 
     <h3>REFERENCES</h3>
     <ul className="references">
-      <li>Ankit, G. (2021). What is blood? https://www.byjus.com/biology/blood/. 6/11/22</li>
+      <li>Ankit, G. (2021). What is blood? </li>
       <li>Astrand, P. O, Rodahl, K., Dahl, H. A, & Stromme, S. B. (2003). Textbook of work physiology (4th Ed.). Windsor: Human Kinetics.</li>
       <li>Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/inter individual variability. Sports Med, 47(Suppl 1), 111-128</li>
       <li>Brayan, S., Laguna, F., Elimear, D., & Paul, S. (2021). Sodium supplementation and the female athlete: A brief commentary with small scale systematic review and meta-Analyysis. European Journal of Sport Science. 22 (1). </li>
@@ -341,7 +341,7 @@ const Article2 = () => (
       <li>Mero,  A. A., Hirvonen, P., Saarela, J., Hulmi, J. J., Hoffman, J. R. & Stout, J. R. (2013). Effect of sodium bicarbonate and beta-alanine supplementation on maximal sprint swimming. Journal of the International Society of Sports Nutrition 10 (1), 52.</li>
       <li>Mero,  A. A., Hirvonen, P., Saarela, J., Hulmi, J. J., Hoffman, J. R. & Stout, J. R. (2013). Effect of sodium bicarbonate and beta-alanine supplementation on maximal sprint swimming. Journal of the International Society of Sports Nutrition 10 (1), 52.</li>
       <li>Michael, M. (2022). Composition of blood and its functions</li>
-      <li>Miralem, H., Max, L. E,, & Monique, S. (2019). The Impact of Sodium Bicarbonate on Performance in Response to Exercise Duration in Athletes: A Systematic Review. Journal of Sports Science & Medicine. 18(2): 271–281. PMCID: PMC6544001, PMID: 31191097.</li>
+      <li>Miralem, H., Max, L. E,, & Monique, S. (2019). The Impact of Sodium Bicarbonate on Performance in Response to Exercise Duration in Athletes: A Systematic Review. Journal of Sports Science & Medicine. 18(2): </li>
       <li>Monawara, B., Sumit, D. & Hamanta, K. S. (2016). Menstrual disorders: causes and natural remedy. Research Journal of Pharmaceutical, Biological and Chemical Sciences 4(2): 307-320.</li>
       <li>Mujika, I. & Taipale, R. S. (2019). Sport Science on Women, Women in Sport Science. International  Journal of  Sports Physiology and  Performance, Sep 1;14(8):1013-1014.</li>
       <li>Nattiv, A., (2007). The female athlete triad. Medicine & Science in Sports & Exercise, 39(10), 1867-1882.</li>
