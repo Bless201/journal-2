@@ -323,27 +323,27 @@ const Article2 = () => (
       <li>Ankit, G. (2021). What is blood? https://www.byjus.com/biology/blood/. 6/11/22</li>
       <li>Astrand, P. O, Rodahl, K., Dahl, H. A, & Stromme, S. B. (2003). Textbook of work physiology (4th Ed.). Windsor: Human Kinetics.</li>
       <li>Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/inter individual variability. Sports Med, 47(Suppl 1), 111-128</li>
-      <li>Brayan, S., Laguna, F., Elimear, D., & Paul, S. (2021). Sodium supplementation and the female athlete: A brief commentary with small scale systematic review and meta-Analyysis. European Journal of Sport Science. 22 (1). Doi: 10.1080/17461391.2021.1880649.</li>
+      <li>Brayan, S., Laguna, F., Elimear, D., & Paul, S. (2021). Sodium supplementation and the female athlete: A brief commentary with small scale systematic review and meta-Analyysis. European Journal of Sport Science. 22 (1). </li>
       <li>Christensen, P. M., Petersen, M. H., Fris S. N. & Bangsbo,  J. (2014). Caffeine, but not bicarbonate, improves 6 min maximal performance in elite rowers. Applied physiology, nutrition, and metabolism = Physiologie Appliquee, Nutrition et Metabolisme 39 (9), 1058–1063.</li>
       <li>Cleveland Clinic, (2022).  Normal Menstruation. Online. Available from https://my.clevelandclinic.org  Retrieved on 12/6/2022</li>
-      <li>Conley, C. L. (2021). Blood Biochemistry, https://www.britannica.com{'>'}blood-biochemistry. 6/11/22</li>
+      <li>Conley, C. L. (2021). Blood Biochemistry</li>
       <li>Deb, S. K., Gough, L. A., Sparks, S. A., McNaughton, L. R. (2018). Sodium bicarbonate supplementation improves severe-intensity intermittent exercise under moderate acute hypoxic conditions. European Journal of Applied Physiology 118 (3), 607–615.</li>
-      <li>Eunice, K. S. (2017). What causes menstrual irregularities? National Institute of child health and human development. https://www.chnd.nih.gov/health/topics/mensrtuation. 10/9/2020.</li>
+      <li>Eunice, K. S. (2017). What causes menstrual irregularities? National Institute of child health and human development.</li>
       <li>Felippe, L. C., Lopes-Silva, J. P., Bertuzzi, R., McGinley, C. & Lima-Silva, A. E. (2016). Separate and Combined Effects of Caffeine and Sodium-Bicarbonate Intake on Judo Performance. International journal of Sports Physiology and Performance 11 (2), 221–226.</li>
       <li>Freemas, J. A., Baranauskas, M. N., Constantini, K., Constantini, N., Greenshields, J. T., Mickleborough, T. D., Raglin, J. S., & Schlader, Z. J. (2021). Exercise performance is impaired during the midluteal phase of the menstrual cycle. Medicine and Science in Sports and Exercise, 53(2), 442-452.</li>
       <li>Findlay, R. J., Macrae, E. H. R., Whyte, I. Y., Easton, C., & Forrest , L. J. (2020). How the menstrual cycle and menstruation affect sporting performance: experiences and perceptions of elite female rugby players. British Journal of Sports Medicine, 54(18), 1108-1113.</li>
       <li>Goulet, E. D. B., Asselin, A., Gosselin, J., & Baker, L. B, (2017), Measurement of sodium concentration in sweat samples: comparison of 5 analytical techniques. Appl Physiol Nutr Metab. 42(8), 861-868.</li>
       <li>Hausmann, M., Slabbekoorn, D., Van Goozen, S. H. M., Cohen-Kettenis, P. T., & Güntürkün, O. (2000). Sex hormones affect spatial abilities during the menstrual cycle. Behavioral Neuroscience, 114(6), 1245-1250.</li>
       <li>Hewett, T. E., Zazulak, B. T., & Myer, G. D. (2007). Effects of the menstrual cycle on anterior cruciate ligament injury risk. The American Journal of Sports Medicine, 35(4), 659-668.</li>
-      <li>Jacky, F. (2018). Break through the taboo: The menstrual cycle and exercise performance. https://www.exerciseregister.through</li>
+      <li>Jacky, F. (2018). Break through the taboo: The menstrual cycle and exercise performance.</li>
       <li>Joyce, S., Minahan C., Anderson M. & Osborne, M. (2012). Acute and chronic loading of sodium bicarbonate in highly trained swimmers. European Journal of Applied Physiology 112 (2), 461–469.</li>
-      <li>Livestrong, (2018) Exercises for Aerobic Capacity, . https://www.livestrong.com/article/419519-ex</li>
+      <li>Livestrong, (2018) Exercises for Aerobic Capacity, . </li>
       <li>Mero,  A. A., Hirvonen, P., Saarela, J., Hulmi, J. J., Hoffman, J. R. & Stout, J. R. (2013). Effect of sodium bicarbonate and beta-alanine supplementation on maximal sprint swimming. Journal of the International Society of Sports Nutrition 10 (1), 52.</li>
       <li>Mero,  A. A., Hirvonen, P., Saarela, J., Hulmi, J. J., Hoffman, J. R. & Stout, J. R. (2013). Effect of sodium bicarbonate and beta-alanine supplementation on maximal sprint swimming. Journal of the International Society of Sports Nutrition 10 (1), 52.</li>
-      <li>Michael, M. (2022). Composition of blood and its functions. https://www.h-h-c.com/composition-of-blood-and----6/11/2022</li>
+      <li>Michael, M. (2022). Composition of blood and its functions</li>
       <li>Miralem, H., Max, L. E,, & Monique, S. (2019). The Impact of Sodium Bicarbonate on Performance in Response to Exercise Duration in Athletes: A Systematic Review. Journal of Sports Science & Medicine. 18(2): 271–281. PMCID: PMC6544001, PMID: 31191097.</li>
       <li>Monawara, B., Sumit, D. & Hamanta, K. S. (2016). Menstrual disorders: causes and natural remedy. Research Journal of Pharmaceutical, Biological and Chemical Sciences 4(2): 307-320.</li>
-      <li>Mujika, I. & Taipale, R. S. (2019). Sport Science on Women, Women in Sport Science. International  Journal of  Sports Physiology and  Performance, Sep 1;14(8):1013-1014. doi: 10.1123/ijspp.2019-0514.</li>
+      <li>Mujika, I. & Taipale, R. S. (2019). Sport Science on Women, Women in Sport Science. International  Journal of  Sports Physiology and  Performance, Sep 1;14(8):1013-1014.</li>
       <li>Nattiv, A., (2007). The female athlete triad. Medicine & Science in Sports & Exercise, 39(10), 1867-1882.</li>
       <li>Nesta, W., Rob, J. & Graham, T. (2006). A2 PE for AQA. UK. Heinemann Educational Publication.</li>
       <li>Okesanya, A. T. (2023). Effects of Menstruation on Aerobic Power among female endurance athletes of Ogun State. A PhD Thesis of Lagos State University, Ojo Lagos.</li>
@@ -352,16 +352,16 @@ const Article2 = () => (
       <li>Pallavi, L. C., Souza, U. J. D., & Shivaprakash, G. (2017). Assessment of musculoskeletal strength and levels of fatigue during different phases of menstrual cycle in young adults. Journal of Clinical & Diagnostic Research, 11(2), 11-13</li>
       <li>Papageorgiou, M., Elliott-Sale, K. J., Parsons, A., Tang, J. C., Greeves, J. P., Fraser, W. D. & Sale, C. (2017). Effects of reduced energy availability on bone metabolism in women and men. Bone 2017, 105, 191–199.</li>
       <li>Pruscino, C. L., Ross M. L. R., Gregory, J. R., Savage, B. & Flanagan, T. R. (2008). Effects of Sodium Bicarbonate, Caffeine, and Their Combination on Repeated 200-m Freestyle Performance. International Journal of Sport Nutrition and Exercise Metabolism 18 (2), 116–130.</li>
-      <li>Robert, S. S. (2021). Blood biochemistry. https://www.britinnica.com{'>'}blood biochemistry</li>
+      <li>Robert, S. S. (2021). Blood biochemistry</li>
       <li>Saunders, B., Sale, C., Harris, R. C. & Sunderland, C. (2014). Sodium bicarbonate and high-intensity-cycling capacity: variability in responses. International Journal of Sports Physiology and Performance 9, 627–632.</li>
       <li>Schmidt, W. & Prommer, N. (2010). Impact of Alterations in Total Hemoglobin Mass on V˙O2max. Exercise Sport Science Review. 2010 Apr;38(2):68–75</li>
-      <li>Shahzaman, K. (2021).  Effects of mineral intake on the physical fitness sport performance of amateur female athletes.https://www.researchgate.net/publicatication/35254781_EFFECT_MI...</li>
+      <li>Shahzaman, K. (2021).  Effects of mineral intake on the physical fitness sport performance of amateur female athletes.</li>
       <li>Shepherd, J. E. (2001). Effects of estrogen on cognition, mood, and degenerative brain diseases. Journal of the American Pharmaceutical Association (1996), 41(2), 221-228.</li>
       <li>Siegler J. C., Gleadall-Siddall, D. O. (2010). Sodium bicarbonate ingestion and repeated swim sprint performance. Journal of Strength and Conditioning Research 24 (11), 3105–3111</li>
       <li>Siegler J. C., Marshall, P. W. M., Bishop, D., Shaw, G. & Green, S. (2016). Mechanistic Insights into the Efficacy of Sodium Bicarbonate Supplementation to Improve Athletic Performance. Sports Medicine - Open 2 (1), 41.</li>
       <li>Sonya, S. D., Sunni, L. M., Anna, Z. P., Neil, J. P., Donald, R. M., Jean, W & Enrique, F. S. (2012). Menstrual bleeding pattern among regularly menstruating women. American Journal of Epidemiology.</li>
       <li>Southmayd, E. A., Williams, N. I., Mallinson, R. J., & De Souza, M. J. (2019). Energy deficiency suppresses bone turnover in exercising women with menstrual disturbances. The Journal of Clinical Endocrinology & Metabolism, 104(8), 3131-3145</li>
-      <li>Summa Health, (2020). Menstruation disorders, types and symptoms. https://www.summahealth,org/medicalservices/women/aboutourservices/gyneacological.services. 24/8/2020</li>
+      <li>Summa Health, (2020). Menstruation disorders, types and symptoms. </li>
       <li>Suzanne, L., Mdjane, E., Reusch, M., Timothy, A., Bauer, M. & Barrett, W. J. (1999). Effects of Exercise Training on Oxygen Uptake Kinetic Responses in Women with Type 2 Diabetes. Diabetes care; 22:1640–1646.</li>
       <li>Tasew, D. G. (2020). Overview of physiological factors affecting athletes aerobic fitness level. International Journal of Physical education, Sports and Health Education, 7(6) 294-295.</li>
       <li>Tyler, M. (2014). The Effects of Age and Long-Term Endurance Training on VO2 Kinetics, thesis, The University of Western Ontario.</li>
