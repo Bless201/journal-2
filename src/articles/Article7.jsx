@@ -300,29 +300,29 @@ const Article7 = () => (
       <li>Alemmaya, M. (2003). Violence against women from gender and cultural perspectives. In <em>Reflection; understanding gender</em>. Addis Ababa: Master Printing Press. 47-63.</li>
       <li>Arrindell, W. A. (2008). The satisfaction with life scale (SWLS): Appraisal with 1700 healthy young adults in the Netherlands. <em>Personality and Individual Differences</em>, 26, 815 - 826.</li>
       <li>Barrett, M. (2008). Ideology and the cultural production of gender, in her women’s oppression today: The marxist/feminist encounter (revised edition). London, Verso, pp.84–113.</li>
-      <li>Bhana, D., & Moosa, S. (2022). Patriarchy and schooling: How gendered power relations shape participation and self-image. <em>Gender and Education</em>, 34(2), 149–164. <a href="https://doi.org/10.1080/09540253.2021.1943210">https://doi.org/10.1080/09540253.2021.1943210</a></li>
+      <li>Bhana, D., & Moosa, S. (2022). Patriarchy and schooling: How gendered power relations shape participation and self-image. <em>Gender and Education</em>, 34(2), 149–164. </li>
       <li>Caffarella, R. & Olson, S. K. (2007). Psychosocial development of women: A critical review of the literature. <em>Adult Education Quarterly</em>, 43(3), 125-151.</li>
       <li>Cunningham, M. (2008). Influences of gender ideology and housework allocation on women's employment over the life course. <em>PMCID</em>, 37(1):254-267.</li>
-      <li>Cunningham, W., & Wigfield, A. (2021). Change in adult learners’ self-concept and motivation: A longitudinal study in continuing education. <em>Adult Education Quarterly</em>, 71(4), 372–388. <a href="https://doi.org/10.1177/07417136211003204">https://doi.org/10.1177/07417136211003204</a></li>
+      <li>Cunningham, W., & Wigfield, A. (2021). Change in adult learners’ self-concept and motivation: A longitudinal study in continuing education. <em>Adult Education Quarterly</em>, 71(4), 372–388. </li>
       <li>Ebohon, O. (1996). The life of an African woman: The Benin woman in focus. Lecture delivered on black solidarity day. New York, 4th of November.</li>
       <li>Eghafona, K.A. (2003). The toponymical investigation of Benin City, Nigeria, <em>Nomina Africana</em>, 17(2), 67-75.</li>
       <li>Eghafona, K.A., & Osunde, O. O. (2017). <em>Ethnography of Nigeria: An introductory text</em>. Benin: Mase Perfect Prints & Publishers.</li>
       <li>Erediauwa, HRH. (1992). Opening address at the international, conference on Benin studies (The Centenary Years, 1892-1992) Held in the University of Benin, Benin City, 23rd - 25th March, 1992.</li>
       <li>Hofstede, G. (2001). <em>Culture's consequences: comparing values, behaviors, institutions and organizations across nations</em>. Thousand Oaks, CA: Sage (co-published in the PRC as Vol. 10 in the Shanghai Foreign Language Education Press SFLEP Intercultural Communication Reference Series, 2008).</li>
-      <li>Hofstede, G., Hofstede, G. J. & Minkov, M. (2010). <em>Cultures and organizations: Software of the Mind</em> (Rev. 3rd ed.). New York: McGraw-Hill. <a href="http://www.geerthofstede.nl">www.geerthofstede.nl</a> and “our books”.</li>
+      <li>Hofstede, G., Hofstede, G. J. & Minkov, M. (2010). <em>Cultures and organizations: Software of the Mind</em> (Rev. 3rd ed.). New York: McGraw-Hill. and “our books”.</li>
       <li>Hyde, J. S. & Kling K. C. (2001). Women, motivation, and achievement. <em>Psychology of Women Quarterly</em>, 25, 364-378.</li>
       <li>Kalkidan B. (2007). Cultural practices that affected the status of women in Benishagul Gumuz, Mundura wereda. Unpublished Master’s Thesis, Addis Ababa University.</li>
       <li>Karlekar, M, (2000). Women participation in basic education in gender gap in basic education (pp. 76-87). New Delhi: Sage Publication Pvt Ltd.</li>
       <li>Kerka, S. (2005). Learner persistence in adult basic education. <em>California Adult Education Research Digest</em>, 2, 1-4.</li>
-      <li>Moorhouse, B. L., & Kohnke, L. (2023). Exploring women learners’ agency and self-perception in adult education settings. <em>International Journal of Lifelong Education</em>, 42(1), 24–41. <a href="https://doi.org/10.1080/02601370.2023.2170340">https://doi.org/10.1080/02601370.2023.2170340</a></li>
-      <li>Okech, A., & Ulimwengu, J. (2023). Gender equity and adult education in Sub-Saharan Africa: Barriers, resilience, and innovation. <em>International Journal of Lifelong Education</em>, 42(1), 83–99. <a href="https://doi.org/10.1080/02601370.2023.2171489">https://doi.org/10.1080/02601370.2023.2171489</a></li>
+      <li>Moorhouse, B. L., & Kohnke, L. (2023). Exploring women learners’ agency and self-perception in adult education settings. <em>International Journal of Lifelong Education</em>, 42(1), 24–41.</li>
+      <li>Okech, A., & Ulimwengu, J. (2023). Gender equity and adult education in Sub-Saharan Africa: Barriers, resilience, and innovation. <em>International Journal of Lifelong Education</em>, 42(1), 83–99.</li>
       <li>Olomukoro, C.O. (2013). Influence of literacy education programmes on socio-economic and psychological empowerment of women in Edo and Delta States, Nigeria. An unpublished Ph.d Thesis. Faculty of Education, University of Ibadan, Nigeria.</li>
-      <li>Onyishi, J. C. (2014). Eradication of poverty through women’s participation in adult and non-formal education: A study of Nsukka in Enugu State of Nigeria. <em>Adult Education and Development</em>. Accessed in <a href="http://www.eaea.org/doc/dvv/62.pdf">http://www.eaea.org/doc/dvv/62.pdf</a> in January 2018.</li>
-      <li>Osezua, O. C. & Agholor, H.N. (2019). Patriarchy, cultural prejudices and spousal violence in the ancient city of Benin of Southern Nigerian. <em>Journal of International Women's Studies</em>, 20(7), 409-422. Bridge water State University. <a href="https://vc.bridgew.edu/jiws/vol20/iss7/26">https://vc.bridgew.edu/jiws/vol20/iss7/26</a></li>
-      <li>Ridgeway, C. L. (2020). Gender, status, and leadership: The persistent power of “old” ideas. <em>Annual Review of Sociology</em>, 46, 19–37. <a href="https://doi.org/10.1146/annurev-soc-121919-054814">https://doi.org/10.1146/annurev-soc-121919-054814</a></li>
+      <li>Onyishi, J. C. (2014). Eradication of poverty through women’s participation in adult and non-formal education: A study of Nsukka in Enugu State of Nigeria. <em>Adult Education and Development</em>. Accessed in January 2018.</li>
+      <li>Osezua, O. C. & Agholor, H.N. (2019). Patriarchy, cultural prejudices and spousal violence in the ancient city of Benin of Southern Nigerian. <em>Journal of International Women's Studies</em>, 20(7), 409-422. Bridge water State University. </li>
+      <li>Ridgeway, C. L. (2020). Gender, status, and leadership: The persistent power of “old” ideas. <em>Annual Review of Sociology</em>, 46, 19–37. </li>
       <li>Stets, J. E., & Serpe, R. T. (2022). <em>New directions in identity theory and research</em>. Oxford University Press.</li>
       <li>Suanmali, C. (2011). The core concepts of andragogy. Columbia University Teachers College, San Francisco, CA, USA.</li>
-      <li>Tisdell, E. J. (2021). Feminist perspectives on adult education: Continuing the conversation. <em>Adult Education Quarterly</em>, 71(2), 115–131. <a href="https://doi.org/10.1177/0741713620982512">https://doi.org/10.1177/0741713620982512</a></li>
+      <li>Tisdell, E. J. (2021). Feminist perspectives on adult education: Continuing the conversation. <em>Adult Education Quarterly</em>, 71(2), 115–131.</li>
     </ul>
   </div>
 );
