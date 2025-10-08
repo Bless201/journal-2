@@ -365,7 +365,7 @@ const Article2 = () => (
       <li>Suzanne, L., Mdjane, E., Reusch, M., Timothy, A., Bauer, M. & Barrett, W. J. (1999). Effects of Exercise Training on Oxygen Uptake Kinetic Responses in Women with Type 2 Diabetes. Diabetes care; 22:1640–1646.</li>
       <li>Tasew, D. G. (2020). Overview of physiological factors affecting athletes aerobic fitness level. International Journal of Physical education, Sports and Health Education, 7(6) 294-295.</li>
       <li>Tyler, M. (2014). The Effects of Age and Long-Term Endurance Training on VO2 Kinetics, thesis, The University of Western Ontario.</li>
-      <li>Yeovil District Hospital, (2018). The Menstrual Cycle. Online. Available from yeovilhospital.nhs.uk Retrieved on 13/6/2022</li>
+      <li>Yeovil District Hospital, (2018). The Menstrual Cycle. </li>
     </ul>
   </div>
 );
