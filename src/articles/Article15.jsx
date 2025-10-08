@@ -652,7 +652,7 @@ const Article15 = () => (
 
     <h3>References</h3>
     <ul className="references">
-      <li>World Health Organisation (WHO). Obesity and overweight. 2025 <a href="https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#:~:text=Obesity%20is%20a%20chronic%20complex,the%20risk%20of%20certain%20cancers">https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight</a>.</li>
+      <li>World Health Organisation (WHO). Obesity and overweight. </li>
       <li>Alfaris, N., Alqahtani, A. M., Alamuddin, N., & Rigas, G. Global impact of obesity. <em>Gastroenterology Clinics</em>, 2023 52(2), 277-293.</li>
       <li>Mohajan, D., & Mohajan, H. K. Obesity and its related diseases: a new escalating alarming in global health. <em>Journal of Innovations in Medical Research</em>, 2023 2(3), 12-23.</li>
       <li>Agyemang, C., Kushitor, S. B., Afrifa-Anane, G. F., & de-Graft Aikins, A. Obesity in Africa: A silent public health crisis. In <em>Metabolic Syndrome</em> 2023 pp. 1-18. Springer, Cham.</li>
@@ -664,20 +664,20 @@ const Article15 = () => (
       <li>Kruger, R., Monyeki, M. A., Schutte, A. E., Smith, W., Mels, C. M. C., Kruger, H. S., ... & Hanssen, H. The exercise, arterial modulation and nutrition in youth South Africa study (ExAMIN youth SA). <em>Frontiers in Pediatrics</em>, 2020 8, 212.</li>
       <li>Ntshaba, S., Mhlongo, M., Erasmus, H., Shaw, I., & Shaw, B. S. Combined Aerobic and Resistance Training Lowers Body Fat Percentage in Rural Black South African Women. <em>Asian Journal of Sports Medicine</em>, 2021 12(2), 1-6.</li>
       <li>Esleman, A., Geberemariam, B. Y., & Aychiluhim, W. Effects of twelve-week aerobic exercise on selected health-related physical fitness variables on Gonji preparatory school male students. <em>East African Journal of Biophysical and Computational Sciences</em>, 2022 3(1), 9-16.</li>
-      <li>Ghana Statistical Service. Ghana Demographic and Health Survey 2022: Nutritional Status of Women 2024. <a href="https://dhsprogram.com/pubs/pdf/FR387/FR387.pdf">https://dhsprogram.com/pubs/pdf/FR387/FR387.pdf</a></li>
+      <li>Ghana Statistical Service. Ghana Demographic and Health Survey 2022: Nutritional Status of Women 2024. </li>
       <li>Amugsi, D. A., & Dimbuene, Z. T. Effects of social determinants of health on obesity among urban women of reproductive age. <em>PLOS Global Public Health</em>, 2023 3(1), e0001442.</li>
       <li>Arnouk, M. K., Marquis, G. S., & Dodoo, N. D. Predictors and consequences of overweight and obesity in the household: a mixed methods study on rural Ghanaian women and men farmers. <em>African Journal of Food, Agriculture, Nutrition and Development</em>, 2023 23(1), 22221-22247.</li>
-      <li>Balis, L. E., Sowatey, G., Ansong-Gyimah, K., Ofori, E., & Harden, S. M. Older Ghanaian adults’ perceptions of physical activity: an exploratory, mixed methods study. <em>BMC Geriatrics</em>, 2019; 19(1). <a href="https://doi.org/10.1186/s12877-019-1095-1">https://doi.org/10.1186/s12877-019-1095-1</a></li>
+      <li>Balis, L. E., Sowatey, G., Ansong-Gyimah, K., Ofori, E., & Harden, S. M. Older Ghanaian adults’ perceptions of physical activity: an exploratory, mixed methods study. <em>BMC Geriatrics</em>, 2019; 19(1). </li>
       <li>Nannar, A. R., Shendge, R. S., & Salunkhe, K. S. Nutritional and herbal supplements for weight loss management: a review. <em>Current Nutrition & Food Science</em>, 2024 20(5), 636-645.</li>
       <li>Effah, E. S., Nai, A., & Bardos, H. Built environmental characteristics, physical activity in neighbourhoods of Accra, Ghana. <em>European Journal of Public Health</em>, 2024 34(Supplement_3), ckae144-1395.</li>
       <li>Nketiah, G. B., Odoi-Agyarko, K., Ndanu, T. A., Hayford, F. E. A., Amoh, G., & Lawson, H. Physical inactivity among corporate bank workers in Accra, Ghana: Implications for health promotion. <em>Plos one</em>, 2023 18(5), e0277994.</li>
       <li>Adom, T., De Villiers, A., Puoane, T., & Kengne, A. P. School-based interventions targeting nutrition and physical activity, and body weight status of African children: A systematic review. <em>Nutrients</em>, 2019 12(1), 95.</li>
-      <li>Kim, Y. J., Kim, H. J., Kim, T. H., Kim, D. H., Jang, S., Go, H. S., Lee, W., & Seong, J. K. Aerobic exercise for eight weeks provides protective effects towards liver and cardiometabolic health and adipose tissue remodeling under metabolic stress for one week: A study in mice. <em>Metabolism, Clinical and Experimental</em>, 2022; 130, 155178. <a href="https://doi.org/10.1016/j.metabol.2022.155178">https://doi.org/10.1016/j.metabol.2022.155178</a></li>
-      <li>Kamuk, Y. U., & Doğru, Z. Effects of different aerobic exercises in overweight and obese women’s quality of life and obesity levels. <em>International Journal of Disabilities Sports & Health Sciences</em> 2023; <a href="https://doi.org/10.33438/ijdshs.1354784">https://doi.org/10.33438/ijdshs.1354784</a></li>
+      <li>Kim, Y. J., Kim, H. J., Kim, T. H., Kim, D. H., Jang, S., Go, H. S., Lee, W., & Seong, J. K. Aerobic exercise for eight weeks provides protective effects towards liver and cardiometabolic health and adipose tissue remodeling under metabolic stress for one week: A study in mice. <em>Metabolism, Clinical and Experimental</em>, 2022; 130, 155178.</li>
+      <li>Kamuk, Y. U., & Doğru, Z. Effects of different aerobic exercises in overweight and obese women’s quality of life and obesity levels. <em>International Journal of Disabilities Sports & Health Sciences</em> 2023; </li>
       <li>Alessandri, G., Zuffianò, A., & Perinelli, E. Evaluating intervention programs with a pretest-posttest design: A structural equation modeling approach. <em>Frontiers in Psychology</em>, 2017 8, 223.</li>
       <li>Spurlock Jr, D. R. The single-group, pre-and posttest design in nursing education research: It's time to move on. <em>Journal of Nursing Education</em>, 2018 57(2), 69-71.</li>
       <li>Mashnafi, S., et al. Effects of aerobic exercise on cholesterol markers. <em>Lipids in Health and Disease</em>, 2021, 20(1).</li>
-      <li>American College of Sports Medicine. Physical Activity Guidelines 2024. <a href="https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines">Link</a></li>
+      <li>American College of Sports Medicine. Physical Activity Guidelines 2024.</li>
       <li>Andiana, O., et al. Moderate-intensity exercise and blood glucose. <em>International Journal of Research Publications</em>, 2022, 93(1).</li>
       <li>Vo, H., et al. Prevalence of prehypertension/hypertension in students. <em>BMC Public Health</em>, 2023, 23(1).</li>
       <li>Müller, M. J., et al. Advances in body weight homeostasis. <em>F1000Research</em>, 2018, 7, 1025.</li>
